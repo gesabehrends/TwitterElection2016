@@ -11,7 +11,8 @@ hashtags = pandas.read_csv("hashtags.csv", sep=';', header = 0, encoding = "lati
 #Fuer die Tweets-Auspraegung alle nicht benoetigten Attribute entfernen, Timestamp berechnen
 allDataTweets = allDataTweets.drop(["text", "is_retweet", "original_author", "in_reply_to_screen_name",
  "is_quote_status", "source_url", "truncated"], axis=1)
-allDataTweets = allDataTweets.rename(columns={"handle": "autor"})
+allDataTweets = allDataTweets.rename(columns={"handle": "autor",
+ "time":"datum", "retweet_count":"retweets", "favorite_count":"likes"})
 
 allDataTweets.insert(0, "Tweet_ID", range(1, len(allDataTweets)+1))  
 tweets = allDataTweets
@@ -26,7 +27,7 @@ tweets = tweets.drop(["hashtag_0", "hashtag_1", "hashtag_2", "hashtag_3", "hasht
 #Enthaelt-Aupraegung aufstellen
 
 enthaelt = allDataTweets
-enthaelt = enthaelt.drop(["autor",	"time", "retweet_count", "favorite_count"], axis =1)
+enthaelt = enthaelt.drop(["autor",	"datum", "retweets", "likes"], axis =1)
 
 #Alle Hashtags in einer (langen Spalte verschmelzen)
 enthaelt = pandas.melt(enthaelt, id_vars=["Tweet_ID"])
