@@ -6,15 +6,13 @@ import calendar
 import psycopg2
 import sqlalchemy as sq
 
-
-
-
-#Daten einlesen
+#Daten aus den csv-files in pandas.dataframe einlesen
 allDataTweets = pandas.read_csv("tweetsPreliminary.csv", sep=';', header = 0, encoding = "latin-1")
 hashtags = pandas.read_csv("hashtags.csv", sep=';', header = 0, encoding = "latin-1")
 
-#Fuer die Tweets-Auspraegung alle nicht benoetigten Attribute entfernen, ID-Attribut hinzufuegen,
-# Timestamp berechnen
+#Fuer die Tweets-Auspraegung alle nicht benoetigten Attribute entfernen, Attribute umbennen,
+#ID-Attribut hinzufuegen, Timestamp berechnen
+
 allDataTweets = allDataTweets.drop(["text", "is_retweet", "original_author", "in_reply_to_screen_name",
  "is_quote_status", "source_url", "truncated"], axis=1)
 allDataTweets = allDataTweets.rename(columns={"handle": "autor",
@@ -51,9 +49,8 @@ enthaelt.to_csv("enthaelt.csv", sep=';', index=False)
 tweets.to_csv("tweets.csv", sep=';', index=False)
 
 #Tabelle in die postgresql-Datenbank hochladen
-engine = sq.create_engine("postgresql+psycopg2://postgres:rosalindFranklin@localhost:5432/election")
+engine = sq.create_engine("postgresql+psycopg2://user:password@localhost:5432/election")
 engine.connect()
-
 
 hashtags.to_sql("hashtags", engine, if_exists='append', index=False)
 tweets.to_sql("tweets", engine, if_exists='append', index=False, chunksize=10000)

@@ -35,7 +35,8 @@ ALTER TABLE "enthaelt"
     ADD CONSTRAINT "hashtag_fkey" FOREIGN KEY ("hashtag_ID") REFERENCES "hashtags" ("hashtag_ID"),
     ADD CONSTRAINT "tweet_fkey" FOREIGN KEY ("tweet_ID") REFERENCES "tweets" ("tweet_ID");
  
-select COLUMN_NAME, DATA_TYPE, CHARACTER_MAXIMUM_LENGTH, 
+--angelegte Tabellen angucken
+ select COLUMN_NAME, DATA_TYPE, CHARACTER_MAXIMUM_LENGTH, 
        NUMERIC_PRECISION, DATETIME_PRECISION, 
        IS_NULLABLE 
 from INFORMATION_SCHEMA.COLUMNS
@@ -52,6 +53,3 @@ select COLUMN_NAME, DATA_TYPE, CHARACTER_MAXIMUM_LENGTH,
        IS_NULLABLE 
 from INFORMATION_SCHEMA.COLUMNS
 where TABLE_NAME='tweets';      
-select * from hashtags;
-
-select * from enthaelt;

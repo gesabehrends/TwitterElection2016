@@ -1,12 +1,12 @@
 #!/usr/bin/python
 
 import re
-#Files oeffnen (input zum lesen, output zum schreiben)
+#Files oeffnen (input zum lesen "r", output zum schreiben "w")
 inputFile = open("american-election-tweets_02.csv", "r")
 outputFileAll = open("tweetsPreliminary.csv", "w")
 outputFileHashtags = open("hashtags.csv", "w")
 
-#Maximale Anzahl Hashtags pro Tweet zaehlen, um passenden Header
+#Maximale Anzahl Hashtags pro Tweet zaehlen, um passende neue Spalten
 #anzulegen
 numberHashtags = 0
 for line in inputFile:
