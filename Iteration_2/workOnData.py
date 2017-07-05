@@ -18,7 +18,7 @@ allDataTweets = allDataTweets.drop(["text", "is_retweet", "original_author", "in
 allDataTweets = allDataTweets.rename(columns={"handle": "autor",
  "time":"datum", "retweet_count":"retweets", "favorite_count":"likes"})
 
-allDataTweets.insert(0, "tweet_ID", range(1, len(allDataTweets)+1))  
+allDataTweets.insert(0, "tweet_id", range(1, len(allDataTweets)+1))  
 tweets = allDataTweets
 tweets = tweets.drop(["hashtag_0", "hashtag_1", "hashtag_2", "hashtag_3", "hashtag_4", 
 "hashtag_5"], axis=1)
@@ -33,7 +33,7 @@ enthaelt = allDataTweets
 enthaelt = enthaelt.drop(["autor",	"datum", "retweets", "likes"], axis =1)
 
 #Alle Hashtags in einer (langen Spalte verschmelzen)
-enthaelt = pandas.melt(enthaelt, id_vars=["tweet_ID"])
+enthaelt = pandas.melt(enthaelt, id_vars=["tweet_id"])
 enthaelt = enthaelt.rename(columns={"value": "hashtag_content"})
 
 #die enthaelt-Tabelle mit der Hashtag-Tabelle verschmelzen, um die Schluessel zusammen-
@@ -42,14 +42,14 @@ enthaelt = enthaelt.rename(columns={"value": "hashtag_content"})
 
 enthaelt = pandas.merge(enthaelt, hashtags, how="inner", on="hashtag_content")
 enthaelt = enthaelt.drop(["variable","hashtag_content"], axis=1)
-enthaelt = enthaelt.drop_duplicates(subset=['tweet_ID', 'hashtag_ID'], keep=False)
+enthaelt = enthaelt.drop_duplicates(subset=['tweet_id', 'hashtag_id'], keep=False)
 
 #Tabellen schreiben
 enthaelt.to_csv("enthaelt.csv", sep=';', index=False)
 tweets.to_csv("tweets.csv", sep=';', index=False)
 
 #Tabelle in die postgresql-Datenbank hochladen
-engine = sq.create_engine("postgresql+psycopg2://user:password@localhost:5432/election")
+engine = sq.create_engine("postgresql+psycopg2://postgres:rosalindFranklin@localhost:5432/election")
 engine.connect()
 
 hashtags.to_sql("hashtags", engine, if_exists='append', index=False)

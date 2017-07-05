@@ -4,7 +4,7 @@ DROP TABLE "hashtags";
 
 
 CREATE TABLE "tweets"
-(    "tweet_ID" INTEGER NOT NULL,
+(    "tweet_id" INTEGER NOT NULL,
     "autor" VARCHAR(50) NOT NULL,
     "datum" BIGINT NOT NULL,
     "retweets" INTEGER NOT NULL,
@@ -16,24 +16,24 @@ ALTER TABLE "tweets"
     ADD CONSTRAINT "tweets_pkey" PRIMARY KEY ("tweet_ID"); 
     
 CREATE TABLE "hashtags"
-(    "hashtag_ID" Integer NOT NULL,
+(    "hashtag_id" Integer NOT NULL,
     "hashtag_content" VARCHAR(50) NOT NULL
 )
 WITH (OIDS = FALSE);
 
 ALTER TABLE "hashtags"
-    ADD CONSTRAINT "hashtags_pkey" PRIMARY KEY ("hashtag_ID");
+    ADD CONSTRAINT "hashtags_pkey" PRIMARY KEY ("hashtag_id");
     
 CREATE TABLE "enthaelt"
-(   "tweet_ID" Integer NOT NULL,
-    "hashtag_ID" Integer NOT NULL
+(   "tweet_id" Integer NOT NULL,
+    "hashtag_id" Integer NOT NULL
 )
 WITH (OIDS = FALSE);
 
 ALTER TABLE "enthaelt"
-    ADD CONSTRAINT "enthaelt_pkey" PRIMARY KEY ("tweet_ID", "hashtag_ID"), 
-    ADD CONSTRAINT "hashtag_fkey" FOREIGN KEY ("hashtag_ID") REFERENCES "hashtags" ("hashtag_ID"),
-    ADD CONSTRAINT "tweet_fkey" FOREIGN KEY ("tweet_ID") REFERENCES "tweets" ("tweet_ID");
+    ADD CONSTRAINT "enthaelt_pkey" PRIMARY KEY ("tweet_id", "hashtag_ID"), 
+    ADD CONSTRAINT "hashtag_fkey" FOREIGN KEY ("hashtag_id") REFERENCES "hashtags" ("hashtag_id"),
+    ADD CONSTRAINT "tweet_fkey" FOREIGN KEY ("tweet_id") REFERENCES "tweets" ("tweet_id");
  
 --angelegte Tabellen angucken
  select COLUMN_NAME, DATA_TYPE, CHARACTER_MAXIMUM_LENGTH, 

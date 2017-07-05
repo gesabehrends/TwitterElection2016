@@ -40,7 +40,7 @@ for line in inputFile:
 allHashtags = list(set(allHashtags))    
 
 #Tabelle fuer Hashtags anlegen
-headerHashtags = "hashtag_ID;hashtag_content\n"
+headerHashtags = "hashtag_id;hashtag_content\n"
 outputFileHashtags.write(headerHashtags)
 i = 0
     
