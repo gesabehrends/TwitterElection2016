@@ -72,6 +72,9 @@ hashtagAutor=pandas.DataFrame(cur.fetchall(),columns=[
     'hashtag_id',
     'hashtag_content'])
 
+cur.close()
+conn.close()
+
 hashtagClusterAutor = pandas.merge(results, hashtagAutor, how="inner", on="hashtag_id")
 hashtagClusterAutor.to_csv("hashtagClusterAutor.csv", sep=';', index=False)
 
