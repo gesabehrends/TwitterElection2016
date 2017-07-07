@@ -2,594 +2,594 @@
 <gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
   <graph defaultedgetype="undirected" mode="static">
     <nodes>
-      <node id="VoteTrumpNH" label="VoteTrumpNH" />
-      <node id="2A" label="2A" />
-      <node id="VoteTrumpNV" label="VoteTrumpNV" />
+      <node id="CitizensUnited" label="CitizensUnited" />
+      <node id="Colbert" label="Colbert" />
+      <node id="MattSchlapp" label="MattSchlapp" />
+      <node id="INPrimary" label="INPrimary" />
+      <node id="FITN" label="FITN" />
+      <node id="goodtrouble" label="goodtrouble" />
+      <node id="Hillary2016" label="Hillary2016" />
       <node id="Mexico" label="Mexico" />
-      <node id="TrumpNV" label="TrumpNV" />
-      <node id="Politician" label="Politician" />
-      <node id="NeilCavuto" label="NeilCavuto" />
-      <node id="LeadRight2016" label="LeadRight2016" />
+      <node id="TrumpIsWithYou" label="TrumpIsWithYou" />
+      <node id="ObamaCare" label="ObamaCare" />
+      <node id="MaryBrigidMcManamon" label="MaryBrigidMcManamon" />
+      <node id="MichaelMoore" label="MichaelMoore" />
+      <node id="DNCinPHL" label="DNCinPHL" />
+      <node id="Pulse" label="Pulse" />
+      <node id="DefendtheSecond" label="DefendtheSecond" />
+      <node id="TheDonald" label="TheDonald" />
+      <node id="2A" label="2A" />
+      <node id="ADA" label="ADA" />
+      <node id="SecondAmendment" label="SecondAmendment" />
+      <node id="2016" label="2016" />
       <node id="CrookedHillary" label="CrookedHillary" />
-      <node id="TrumpWaikiki" label="TrumpWaikiki" />
-      <node id="AsLongAsItTakes" label="AsLongAsItTakes" />
-      <node id="FallonTonight" label="FallonTonight" />
-      <node id="NeverDems" label="NeverDems" />
-      <node id="TeamUSA" label="TeamUSA" />
-      <node id="AZPrimary" label="AZPrimary" />
-      <node id="VoteTrumpSC" label="VoteTrumpSC" />
-      <node id="SuperTuesday" label="SuperTuesday" />
-      <node id="NHPrimary" label="NHPrimary" />
-      <node id="MakeYoutubeGreatAgain" label="MakeYoutubeGreatAgain" />
-      <node id="NYPrimary" label="NYPrimary" />
-      <node id="VoteTrumpNY" label="VoteTrumpNY" />
-      <node id="NaturalBorn" label="NaturalBorn" />
-      <node id="LESM" label="LESM" />
-      <node id="NewDay" label="NewDay" />
-      <node id="Enough" label="Enough" />
-      <node id="VoteTrumpWI" label="VoteTrumpWI" />
-      <node id="FoxNews" label="FoxNews" />
-      <node id="IowaCaucus" label="IowaCaucus" />
-      <node id="EndCommonCore" label="EndCommonCore" />
-      <node id="CommonLaw" label="CommonLaw" />
-      <node id="AmericaFirst" label="AmericaFirst" />
-      <node id="TrumpPence16" label="TrumpPence16" />
-      <node id="CTPrimary" label="CTPrimary" />
-      <node id="OrlandoUnited" label="OrlandoUnited" />
-      <node id="imwithher" label="imwithher" />
-      <node id="RIP" label="RIP" />
-      <node id="BlackMenForBernie" label="BlackMenForBernie" />
-      <node id="DavidCameron" label="DavidCameron" />
-      <node id="UT" label="UT" />
-      <node id="SuperSaturday" label="SuperSaturday" />
-      <node id="UTCaucus" label="UTCaucus" />
-      <node id="TedCruz" label="TedCruz" />
+      <node id="OpeningCeremony" label="OpeningCeremony" />
       <node id="DebateNight" label="DebateNight" />
-      <node id="EauClaire" label="EauClaire" />
+      <node id="VoteTrumpWI" label="VoteTrumpWI" />
+      <node id="NeverHillary" label="NeverHillary" />
+      <node id="Carrier" label="Carrier" />
+      <node id="MakeYoutubeGreatAgain" label="MakeYoutubeGreatAgain" />
+      <node id="VoteTrump" label="VoteTrump" />
+      <node id="LSSC" label="LSSC" />
+      <node id="RTM2016" label="RTM2016" />
+      <node id="TrumpWaikiki" label="TrumpWaikiki" />
+      <node id="VoteTrumpNY" label="VoteTrumpNY" />
+      <node id="UTCaucus" label="UTCaucus" />
+      <node id="VoterFraud" label="VoterFraud" />
+      <node id="enough" label="enough" />
+      <node id="Jonas" label="Jonas" />
+      <node id="Cruz" label="Cruz" />
+      <node id="LaurenceTribe" label="LaurenceTribe" />
+      <node id="DEPrimary" label="DEPrimary" />
+      <node id="TRUMP2016" label="TRUMP2016" />
+      <node id="NewYork" label="NewYork" />
+      <node id="NHPolitics" label="NHPolitics" />
+      <node id="veterans" label="veterans" />
+      <node id="VotersSpeak" label="VotersSpeak" />
+      <node id="RIPrimary" label="RIPrimary" />
+      <node id="gunviolence" label="gunviolence" />
+      <node id="brexit" label="brexit" />
+      <node id="Trump2016" label="Trump2016" />
+      <node id="MAGA" label="MAGA" />
+      <node id="Utah" label="Utah" />
+      <node id="BuildTheWall" label="BuildTheWall" />
+      <node id="WCS16" label="WCS16" />
+      <node id="LoneStarState" label="LoneStarState" />
+      <node id="sitin" label="sitin" />
+      <node id="NewYorkValues" label="NewYorkValues" />
+      <node id="POTUS" label="POTUS" />
+      <node id="Rubio" label="Rubio" />
+      <node id="ImWithYou" label="ImWithYou" />
+      <node id="WesternTuesday" label="WesternTuesday" />
+      <node id="VoterRegistrationDay" label="VoterRegistrationDay" />
+      <node id="Mahalo" label="Mahalo" />
+      <node id="Mormon" label="Mormon" />
+      <node id="AZ" label="AZ" />
+      <node id="DivoDeJuarez" label="DivoDeJuarez" />
+      <node id="NevadaCaucus" label="NevadaCaucus" />
+      <node id="presidenttrump" label="presidenttrump" />
+      <node id="WH" label="WH" />
+      <node id="LeadRight2016" label="LeadRight2016" />
+      <node id="MothersoftheMovement" label="MothersoftheMovement" />
+      <node id="LawandOrder" label="LawandOrder" />
+      <node id="smallbiz" label="smallbiz" />
+      <node id="HillaryClinton" label="HillaryClinton" />
+      <node id="UT" label="UT" />
+      <node id="Women4Ttump" label="Women4Ttump" />
+      <node id="TedCruz" label="TedCruz" />
+      <node id="MSM" label="MSM" />
+      <node id="AlwaysTrump" label="AlwaysTrump" />
+      <node id="NHPrimary" label="NHPrimary" />
+      <node id="JimmyFallon" label="JimmyFallon" />
+      <node id="FoxNews" label="FoxNews" />
+      <node id="LoveTrumpsHate" label="LoveTrumpsHate" />
+      <node id="DemsinPhilly" label="DemsinPhilly" />
+      <node id="NaturalBorn" label="NaturalBorn" />
+      <node id="TrumpForPresident" label="TrumpForPresident" />
+      <node id="CTPrimary" label="CTPrimary" />
+      <node id="TBT" label="TBT" />
+      <node id="Wausau" label="Wausau" />
+      <node id="imwithher" label="imwithher" />
+      <node id="Statehood" label="Statehood" />
+      <node id="jenniferrubin" label="jenniferrubin" />
+      <node id="PrimaryDay" label="PrimaryDay" />
+      <node id="StoptheHate" label="StoptheHate" />
+      <node id="With_Cruz_you_lose" label="With_Cruz_you_lose" />
+      <node id="KansasCaucus" label="KansasCaucus" />
+      <node id="KenLangone" label="KenLangone" />
       <node id="MyTeacherIsWeird" label="MyTeacherIsWeird" />
-      <node id="campaignfinance" label="campaignfinance" />
+      <node id="IowaCaucus" label="IowaCaucus" />
+      <node id="NeilCavuto" label="NeilCavuto" />
+      <node id="HillaryOnGMA" label="HillaryOnGMA" />
+      <node id="WashingtonDC" label="WashingtonDC" />
+      <node id="ClintonKaine" label="ClintonKaine" />
+      <node id="VoteTrump2016" label="VoteTrump2016" />
+      <node id="trump" label="trump" />
+      <node id="NASCAR" label="NASCAR" />
+      <node id="RIP" label="RIP" />
+      <node id="MAKEAMERICAGREATAGAIN" label="MAKEAMERICAGREATAGAIN" />
+      <node id="GOPDebate" label="GOPDebate" />
+      <node id="ElectionDay" label="ElectionDay" />
+      <node id="BlacksForTrump" label="BlacksForTrump" />
+      <node id="AZPrimary" label="AZPrimary" />
+      <node id="EndCommonCore" label="EndCommonCore" />
+      <node id="ROGERAILES" label="ROGERAILES" />
+      <node id="Clinton" label="Clinton" />
+      <node id="GOPinCLE" label="GOPinCLE" />
+      <node id="SCOTUS" label="SCOTUS" />
+      <node id="UtahPrimary" label="UtahPrimary" />
+      <node id="holdthefloor" label="holdthefloor" />
+      <node id="WIPrimary" label="WIPrimary" />
+      <node id="RNC" label="RNC" />
+      <node id="NewDay" label="NewDay" />
+      <node id="SuperBowlSunday" label="SuperBowlSunday" />
+      <node id="TeamTrump" label="TeamTrump" />
+      <node id="RNCinCLE" label="RNCinCLE" />
+      <node id="DemConvention" label="DemConvention" />
+      <node id="TrumpCountry" label="TrumpCountry" />
+      <node id="makeamericagreatagain" label="makeamericagreatagain" />
+      <node id="NebraskaPrimary" label="NebraskaPrimary" />
+      <node id="VoteTrumpNH" label="VoteTrumpNH" />
+      <node id="StopCommonCore" label="StopCommonCore" />
+      <node id="WattersWorld" label="WattersWorld" />
+      <node id="AmericanSamoa" label="AmericanSamoa" />
+      <node id="UtahCaucus" label="UtahCaucus" />
+      <node id="TrumpMovement" label="TrumpMovement" />
+      <node id="TheTonightShow" label="TheTonightShow" />
+      <node id="VoteTrumpSC" label="VoteTrumpSC" />
+      <node id="NewHampshire" label="NewHampshire" />
+      <node id="DavidCameron" label="DavidCameron" />
+      <node id="slipping" label="slipping" />
+      <node id="WeAreBernie" label="WeAreBernie" />
+      <node id="ECONOMY" label="ECONOMY" />
+      <node id="TeamUSA" label="TeamUSA" />
+      <node id="Orlando" label="Orlando" />
+      <node id="Benghazi" label="Benghazi" />
+      <node id="DemsInPhilly" label="DemsInPhilly" />
+      <node id="Rio2016" label="Rio2016" />
+      <node id="ISIS" label="ISIS" />
+      <node id="primary" label="primary" />
+      <node id="Prince" label="Prince" />
+      <node id="VoteTrumpNV" label="VoteTrumpNV" />
+      <node id="TrumpTrain" label="TrumpTrain" />
+      <node id="Filibuster" label="Filibuster" />
+      <node id="Debates2016" label="Debates2016" />
+      <node id="GIBill" label="GIBill" />
+      <node id="JuanGabriel" label="JuanGabriel" />
+      <node id="PAPrimary" label="PAPrimary" />
       <node id="LaborDay" label="LaborDay" />
       <node id="TPP" label="TPP" />
-      <node id="enough" label="enough" />
-      <node id="USA" label="USA" />
-      <node id="gunviolence" label="gunviolence" />
-      <node id="CripTheVote" label="CripTheVote" />
-      <node id="ECONOMY" label="ECONOMY" />
-      <node id="TrumpMovement" label="TrumpMovement" />
-      <node id="NATO" label="NATO" />
-      <node id="GOP" label="GOP" />
-      <node id="ClintonKaine" label="ClintonKaine" />
-      <node id="sitin" label="sitin" />
-      <node id="Filibuster" label="Filibuster" />
-      <node id="TrumpWon" label="TrumpWon" />
-      <node id="ChangeAgents" label="ChangeAgents" />
-      <node id="HillaryClinton" label="HillaryClinton" />
-      <node id="PrimaryDay" label="PrimaryDay" />
-      <node id="GOPinCLE" label="GOPinCLE" />
-      <node id="MattSchlapp" label="MattSchlapp" />
-      <node id="Carrier" label="Carrier" />
-      <node id="NHPolitics" label="NHPolitics" />
-      <node id="BikersForTrump" label="BikersForTrump" />
-      <node id="holdthefloor" label="holdthefloor" />
-      <node id="WattersWorld" label="WattersWorld" />
-      <node id="Rio2016" label="Rio2016" />
-      <node id="iVoted" label="iVoted" />
-      <node id="SCPrimary" label="SCPrimary" />
-      <node id="MichaelMoore" label="MichaelMoore" />
-      <node id="primary" label="primary" />
-      <node id="AlwaysTrump" label="AlwaysTrump" />
-      <node id="DefendtheSecond" label="DefendtheSecond" />
-      <node id="Srebrenica" label="Srebrenica" />
-      <node id="smallbiz" label="smallbiz" />
-      <node id="INPrimary" label="INPrimary" />
-      <node id="Benghazi" label="Benghazi" />
-      <node id="Ford" label="Ford" />
-      <node id="WashingtonDC" label="WashingtonDC" />
-      <node id="EndGunViolence" label="EndGunViolence" />
-      <node id="Teachers4Trump" label="Teachers4Trump" />
-      <node id="JuanGabriel" label="JuanGabriel" />
-      <node id="BuildTheWall" label="BuildTheWall" />
-      <node id="NevadaCaucus" label="NevadaCaucus" />
-      <node id="MaryBrigidMcManamon" label="MaryBrigidMcManamon" />
-      <node id="LaurenceTribe" label="LaurenceTribe" />
-      <node id="ICYMI" label="ICYMI" />
-      <node id="FAIL" label="FAIL" />
-      <node id="With_Cruz_you_lose" label="With_Cruz_you_lose" />
-      <node id="TeamTrump" label="TeamTrump" />
-      <node id="LGBT" label="LGBT" />
-      <node id="KansasCaucus" label="KansasCaucus" />
-      <node id="GIBill" label="GIBill" />
-      <node id="IACaucus" label="IACaucus" />
-      <node id="DemsinPhilly" label="DemsinPhilly" />
-      <node id="RTM2016" label="RTM2016" />
-      <node id="LoneStarState" label="LoneStarState" />
-      <node id="TBT" label="TBT" />
-      <node id="taxplan" label="taxplan" />
-      <node id="BlacksForTrump" label="BlacksForTrump" />
-      <node id="ObamaCare" label="ObamaCare" />
-      <node id="Jobs" label="Jobs" />
-      <node id="Colbert" label="Colbert" />
-      <node id="NASCAR" label="NASCAR" />
-      <node id="Pulse" label="Pulse" />
-      <node id="LyingTed" label="LyingTed" />
-      <node id="WeWantTrump" label="WeWantTrump" />
-      <node id="FITN" label="FITN" />
-      <node id="VoterRegistrationDay" label="VoterRegistrationDay" />
-      <node id="UtahCaucus" label="UtahCaucus" />
-      <node id="TrumpPence2016" label="TrumpPence2016" />
-      <node id="WCS16" label="WCS16" />
-      <node id="Utah4Trump" label="Utah4Trump" />
-      <node id="Mormon" label="Mormon" />
-      <node id="Clinton" label="Clinton" />
-      <node id="MichaelBrown" label="MichaelBrown" />
-      <node id="DEPrimary" label="DEPrimary" />
-      <node id="WIPrimary" label="WIPrimary" />
-      <node id="Elkhart" label="Elkhart" />
-      <node id="StrongerTogether" label="StrongerTogether" />
-      <node id="TheDonald" label="TheDonald" />
-      <node id="NeverForget" label="NeverForget" />
-      <node id="ISIS" label="ISIS" />
-      <node id="Debates2016" label="Debates2016" />
-      <node id="TheTonightShow" label="TheTonightShow" />
-      <node id="MeetTheTrumps" label="MeetTheTrumps" />
-      <node id="LSSC" label="LSSC" />
-      <node id="DisarmHate" label="DisarmHate" />
-      <node id="RIPrimary" label="RIPrimary" />
-      <node id="NeverHillary" label="NeverHillary" />
-      <node id="SB50" label="SB50" />
-      <node id="DemConvention" label="DemConvention" />
-      <node id="TRUMP2016" label="TRUMP2016" />
-      <node id="ImWithYou" label="ImWithYou" />
-      <node id="MothersoftheMovement" label="MothersoftheMovement" />
-      <node id="NewHampshire" label="NewHampshire" />
-      <node id="Mahalo" label="Mahalo" />
-      <node id="RNCinCLE" label="RNCinCLE" />
-      <node id="StopCommonCore" label="StopCommonCore" />
-      <node id="CA4Trump" label="CA4Trump" />
-      <node id="JimmyFallon" label="JimmyFallon" />
-      <node id="TrumpCountry" label="TrumpCountry" />
-      <node id="StandTogether" label="StandTogether" />
-      <node id="ElectionDay" label="ElectionDay" />
-      <node id="NeverCruz" label="NeverCruz" />
-      <node id="NewYorkValues" label="NewYorkValues" />
-      <node id="Jonas" label="Jonas" />
-      <node id="UtahPrimary" label="UtahPrimary" />
-      <node id="ORPrimary" label="ORPrimary" />
-      <node id="AmericanSamoa" label="AmericanSamoa" />
-      <node id="Fox" label="Fox" />
-      <node id="MaitnerStrong" label="MaitnerStrong" />
-      <node id="Orlando" label="Orlando" />
-      <node id="DNCinPHL" label="DNCinPHL" />
-      <node id="CAPrimary" label="CAPrimary" />
-      <node id="KenLangone" label="KenLangone" />
-      <node id="StoptheHate" label="StoptheHate" />
-      <node id="jenniferrubin" label="jenniferrubin" />
-      <node id="TrumpIsWithYou" label="TrumpIsWithYou" />
-      <node id="veterans" label="veterans" />
-      <node id="debatenight" label="debatenight" />
-      <node id="NewYork" label="NewYork" />
-      <node id="FeelTheBern" label="FeelTheBern" />
-      <node id="CBNNews" label="CBNNews" />
-      <node id="RNC" label="RNC" />
-      <node id="trump2016" label="trump2016" />
-      <node id="Prince" label="Prince" />
-      <node id="MAKEAMERICAGREATAGAIN" label="MAKEAMERICAGREATAGAIN" />
-      <node id="HillaryOnGMA" label="HillaryOnGMA" />
-      <node id="presidenttrump" label="presidenttrump" />
-      <node id="NoMoreSilence" label="NoMoreSilence" />
-      <node id="VotersSpeak" label="VotersSpeak" />
-      <node id="brexit" label="brexit" />
-      <node id="Hannity" label="Hannity" />
-      <node id="NebraskaPrimary" label="NebraskaPrimary" />
-      <node id="WH" label="WH" />
-      <node id="TrumpTrain" label="TrumpTrain" />
-      <node id="2016" label="2016" />
-      <node id="goodtrouble" label="goodtrouble" />
-      <node id="GOPConvention" label="GOPConvention" />
-      <node id="Cruz" label="Cruz" />
-      <node id="DemsInPhilly" label="DemsInPhilly" />
-      <node id="CaucusForTrump" label="CaucusForTrump" />
-      <node id="AZ" label="AZ" />
-      <node id="SuperBowlSunday" label="SuperBowlSunday" />
-      <node id="GOPDebate" label="GOPDebate" />
-      <node id="makeamericagreatagain" label="makeamericagreatagain" />
-      <node id="VoteTrump2016" label="VoteTrump2016" />
-      <node id="IAPolitics" label="IAPolitics" />
-      <node id="VoterFraud" label="VoterFraud" />
-      <node id="Rubio" label="Rubio" />
-      <node id="Statehood" label="Statehood" />
-      <node id="LoveTrumpsHate" label="LoveTrumpsHate" />
-      <node id="TrumpForPresident" label="TrumpForPresident" />
-      <node id="trump" label="trump" />
-      <node id="PAPrimary" label="PAPrimary" />
-      <node id="POTUS" label="POTUS" />
-      <node id="Wisconsin" label="Wisconsin" />
-      <node id="Women4Ttump" label="Women4Ttump" />
-      <node id="Trump2016" label="Trump2016" />
-      <node id="ADA" label="ADA" />
-      <node id="slipping" label="slipping" />
-      <node id="MDPrimary" label="MDPrimary" />
-      <node id="Wausau" label="Wausau" />
-      <node id="VoteTrump" label="VoteTrump" />
-      <node id="NationalVoterRegistrationDay" label="NationalVoterRegistrationDay" />
-      <node id="MakeAmericaGreatAgain" label="MakeAmericaGreatAgain" />
-      <node id="Utah" label="Utah" />
-      <node id="MAGA" label="MAGA" />
-      <node id="WeAreBernie" label="WeAreBernie" />
-      <node id="1" label="1" />
-      <node id="Trump" label="Trump" />
-      <node id="NoBillNoBreak" label="NoBillNoBreak" />
-      <node id="MSM" label="MSM" />
-      <node id="DivoDeJuarez" label="DivoDeJuarez" />
-      <node id="ROGERAILES" label="ROGERAILES" />
-      <node id="SecondAmendment" label="SecondAmendment" />
-      <node id="ImWithHer" label="ImWithHer" />
-      <node id="Hillary2016" label="Hillary2016" />
+      <node id="Politician" label="Politician" />
       <node id="Racine" label="Racine" />
-      <node id="LawandOrder" label="LawandOrder" />
-      <node id="WesternTuesday" label="WesternTuesday" />
-      <node id="Polls" label="Polls" />
-      <node id="CitizensUnited" label="CitizensUnited" />
-      <node id="OpeningCeremony" label="OpeningCeremony" />
-      <node id="SCOTUS" label="SCOTUS" />
+      <node id="LESM" label="LESM" />
+      <node id="NYPrimary" label="NYPrimary" />
+      <node id="FAIL" label="FAIL" />
+      <node id="IACaucus" label="IACaucus" />
+      <node id="Jobs" label="Jobs" />
+      <node id="Teachers4Trump" label="Teachers4Trump" />
+      <node id="Wisconsin" label="Wisconsin" />
+      <node id="Hannity" label="Hannity" />
+      <node id="MichaelBrown" label="MichaelBrown" />
+      <node id="DisarmHate" label="DisarmHate" />
+      <node id="MakeAmericaGreatAgain" label="MakeAmericaGreatAgain" />
+      <node id="NoMoreSilence" label="NoMoreSilence" />
+      <node id="FeelTheBern" label="FeelTheBern" />
+      <node id="Trump" label="Trump" />
+      <node id="iVoted" label="iVoted" />
+      <node id="CAPrimary" label="CAPrimary" />
+      <node id="CBNNews" label="CBNNews" />
+      <node id="NeverCruz" label="NeverCruz" />
+      <node id="StrongerTogether" label="StrongerTogether" />
+      <node id="AmericaFirst" label="AmericaFirst" />
+      <node id="MeetTheTrumps" label="MeetTheTrumps" />
+      <node id="EndGunViolence" label="EndGunViolence" />
+      <node id="ICYMI" label="ICYMI" />
       <node id="ArizonaPrimary" label="ArizonaPrimary" />
+      <node id="GOP" label="GOP" />
       <node id="Bush" label="Bush" />
+      <node id="campaignfinance" label="campaignfinance" />
+      <node id="CaucusForTrump" label="CaucusForTrump" />
+      <node id="TrumpPence2016" label="TrumpPence2016" />
+      <node id="Utah4Trump" label="Utah4Trump" />
+      <node id="SB50" label="SB50" />
+      <node id="MaitnerStrong" label="MaitnerStrong" />
+      <node id="Srebrenica" label="Srebrenica" />
+      <node id="trump2016" label="trump2016" />
+      <node id="taxplan" label="taxplan" />
+      <node id="SCPrimary" label="SCPrimary" />
+      <node id="NoBillNoBreak" label="NoBillNoBreak" />
+      <node id="TrumpNV" label="TrumpNV" />
+      <node id="FallonTonight" label="FallonTonight" />
+      <node id="Fox" label="Fox" />
+      <node id="BikersForTrump" label="BikersForTrump" />
+      <node id="LGBT" label="LGBT" />
+      <node id="SuperSaturday" label="SuperSaturday" />
+      <node id="Ford" label="Ford" />
+      <node id="GOPConvention" label="GOPConvention" />
+      <node id="CA4Trump" label="CA4Trump" />
+      <node id="NATO" label="NATO" />
+      <node id="debatenight" label="debatenight" />
+      <node id="NationalVoterRegistrationDay" label="NationalVoterRegistrationDay" />
+      <node id="SuperTuesday" label="SuperTuesday" />
+      <node id="ImWithHer" label="ImWithHer" />
+      <node id="1" label="1" />
+      <node id="Polls" label="Polls" />
+      <node id="NeverDems" label="NeverDems" />
+      <node id="WeWantTrump" label="WeWantTrump" />
+      <node id="Elkhart" label="Elkhart" />
+      <node id="AsLongAsItTakes" label="AsLongAsItTakes" />
+      <node id="CommonLaw" label="CommonLaw" />
+      <node id="Enough" label="Enough" />
+      <node id="IAPolitics" label="IAPolitics" />
+      <node id="TrumpPence16" label="TrumpPence16" />
+      <node id="TrumpWon" label="TrumpWon" />
+      <node id="MDPrimary" label="MDPrimary" />
+      <node id="CripTheVote" label="CripTheVote" />
+      <node id="ORPrimary" label="ORPrimary" />
+      <node id="EauClaire" label="EauClaire" />
+      <node id="LyingTed" label="LyingTed" />
+      <node id="StandTogether" label="StandTogether" />
+      <node id="ChangeAgents" label="ChangeAgents" />
+      <node id="BlackMenForBernie" label="BlackMenForBernie" />
+      <node id="NeverForget" label="NeverForget" />
+      <node id="OrlandoUnited" label="OrlandoUnited" />
+      <node id="USA" label="USA" />
     </nodes>
     <edges>
-      <edge id="0" source="VoteTrumpNH" target="NewHampshire" weight="1" />
-      <edge id="1" source="VoteTrumpNH" target="MakeAmericaGreatAgain" weight="1" />
-      <edge id="2" source="VoteTrumpNH" target="FITN" weight="6" />
-      <edge id="3" source="VoteTrumpNH" target="NHPrimary" weight="2" />
-      <edge id="4" source="2A" target="DefendtheSecond" weight="1" />
-      <edge id="5" source="2A" target="SCOTUS" weight="1" />
-      <edge id="6" source="2A" target="Trump2016" weight="1" />
-      <edge id="7" source="2A" target="NeverHillary" weight="2" />
-      <edge id="8" source="2A" target="SecondAmendment" weight="1" />
-      <edge id="9" source="2A" target="ElectionDay" weight="1" />
-      <edge id="10" source="VoteTrumpNV" target="BikersForTrump" weight="1" />
-      <edge id="11" source="VoteTrumpNV" target="NevadaCaucus" weight="4" />
-      <edge id="12" source="VoteTrumpNV" target="Trump2016" weight="2" />
-      <edge id="13" source="Mexico" target="Jobs" weight="1" />
-      <edge id="14" source="Mexico" target="Trump" weight="1" />
-      <edge id="15" source="Mexico" target="Ford" weight="1" />
-      <edge id="16" source="Mexico" target="Carrier" weight="1" />
-      <edge id="17" source="TrumpNV" target="Trump2016" weight="1" />
-      <edge id="18" source="Politician" target="FAIL" weight="1" />
-      <edge id="19" source="NeilCavuto" target="KenLangone" weight="1" />
-      <edge id="20" source="NeilCavuto" target="Fox" weight="1" />
-      <edge id="21" source="LeadRight2016" target="AmericaFirst" weight="1" />
-      <edge id="22" source="CrookedHillary" target="ImWithYou" weight="1" />
-      <edge id="23" source="CrookedHillary" target="TrumpPence16" weight="1" />
-      <edge id="24" source="CrookedHillary" target="Trump2016" weight="1" />
-      <edge id="25" source="TrumpWaikiki" target="Mahalo" weight="1" />
-      <edge id="26" source="AsLongAsItTakes" target="NoMoreSilence" weight="1" />
-      <edge id="27" source="AsLongAsItTakes" target="gunviolence" weight="1" />
-      <edge id="28" source="AsLongAsItTakes" target="NoBillNoBreak" weight="1" />
-      <edge id="29" source="AsLongAsItTakes" target="sitin" weight="1" />
-      <edge id="30" source="FallonTonight" target="MyTeacherIsWeird" weight="1" />
-      <edge id="31" source="NeverDems" target="CA4Trump" weight="1" />
-      <edge id="32" source="NeverDems" target="Teachers4Trump" weight="1" />
-      <edge id="33" source="TeamUSA" target="OpeningCeremony" weight="1" />
-      <edge id="34" source="TeamUSA" target="Rio2016" weight="1" />
-      <edge id="35" source="AZPrimary" target="MakeAmericaGreatAgain" weight="2" />
-      <edge id="36" source="AZPrimary" target="AmericanSamoa" weight="1" />
-      <edge id="37" source="AZPrimary" target="UTCaucus" weight="1" />
-      <edge id="38" source="AZPrimary" target="Trump2016" weight="2" />
-      <edge id="39" source="AZPrimary" target="ArizonaPrimary" weight="2" />
-      <edge id="40" source="AZPrimary" target="VoteTrump" weight="2" />
-      <edge id="41" source="AZPrimary" target="UtahCaucus" weight="1" />
-      <edge id="42" source="VoteTrumpSC" target="MakeAmericaGreatAgain" weight="1" />
-      <edge id="43" source="VoteTrumpSC" target="SCPrimary" weight="2" />
-      <edge id="44" source="VoteTrumpSC" target="Trump2016" weight="4" />
-      <edge id="45" source="SuperTuesday" target="LoneStarState" weight="1" />
-      <edge id="46" source="SuperTuesday" target="MakeAmericaGreatAgain" weight="7" />
-      <edge id="47" source="SuperTuesday" target="VoteTrump" weight="5" />
-      <edge id="48" source="SuperTuesday" target="Trump2016" weight="12" />
-      <edge id="49" source="NHPrimary" target="FITN" weight="6" />
-      <edge id="50" source="MakeYoutubeGreatAgain" target="Trump2016" weight="1" />
-      <edge id="51" source="NYPrimary" target="VoteTrump" weight="1" />
-      <edge id="52" source="NYPrimary" target="NewYorkValues" weight="1" />
-      <edge id="53" source="NYPrimary" target="GOP" weight="1" />
-      <edge id="54" source="NYPrimary" target="Trump2016" weight="3" />
-      <edge id="55" source="NYPrimary" target="TrumpTrain" weight="1" />
-      <edge id="56" source="VoteTrumpNY" target="ICYMI" weight="1" />
-      <edge id="57" source="VoteTrumpNY" target="POTUS" weight="1" />
-      <edge id="58" source="VoteTrumpNY" target="MakeAmericaGreatAgain" weight="1" />
-      <edge id="59" source="VoteTrumpNY" target="PrimaryDay" weight="1" />
-      <edge id="60" source="VoteTrumpNY" target="Trump2016" weight="2" />
-      <edge id="61" source="NaturalBorn" target="CommonLaw" weight="1" />
-      <edge id="62" source="NaturalBorn" target="MaryBrigidMcManamon" weight="1" />
-      <edge id="63" source="NaturalBorn" target="TedCruz" weight="1" />
-      <edge id="64" source="LESM" target="MAGA" weight="2" />
-      <edge id="65" source="LESM" target="MakeAmericaGreatAgain" weight="1" />
-      <edge id="66" source="LESM" target="Trump2016" weight="1" />
-      <edge id="67" source="NewDay" target="MakeAmericaGreatAgain" weight="1" />
-      <edge id="68" source="Enough" target="OrlandoUnited" weight="1" />
-      <edge id="69" source="Enough" target="Filibuster" weight="1" />
-      <edge id="70" source="VoteTrumpWI" target="WIPrimary" weight="1" />
-      <edge id="71" source="FoxNews" target="MakeAmericaGreatAgain" weight="1" />
-      <edge id="72" source="FoxNews" target="MichaelMoore" weight="1" />
-      <edge id="73" source="FoxNews" target="ROGERAILES" weight="1" />
-      <edge id="74" source="FoxNews" target="Trump2016" weight="2" />
-      <edge id="75" source="IowaCaucus" target="VoteTrump" weight="1" />
-      <edge id="76" source="EndCommonCore" target="Trump2016" weight="1" />
-      <edge id="77" source="CommonLaw" target="MaryBrigidMcManamon" weight="1" />
-      <edge id="78" source="CommonLaw" target="TedCruz" weight="1" />
-      <edge id="79" source="AmericaFirst" target="Debates2016" weight="1" />
-      <edge id="80" source="AmericaFirst" target="RNCinCLE" weight="4" />
-      <edge id="81" source="AmericaFirst" target="GOPinCLE" weight="1" />
-      <edge id="82" source="AmericaFirst" target="Trump2016" weight="12" />
-      <edge id="83" source="AmericaFirst" target="MakeAmericaGreatAgain" weight="2" />
-      <edge id="84" source="AmericaFirst" target="DebateNight" weight="2" />
-      <edge id="85" source="AmericaFirst" target="TrumpTrain" weight="2" />
-      <edge id="86" source="AmericaFirst" target="ImWithYou" weight="12" />
-      <edge id="87" source="AmericaFirst" target="LaborDay" weight="1" />
-      <edge id="88" source="AmericaFirst" target="MAGA" weight="5" />
-      <edge id="89" source="AmericaFirst" target="GOPConvention" weight="2" />
-      <edge id="90" source="AmericaFirst" target="TrumpPence16" weight="1" />
-      <edge id="91" source="TrumpPence16" target="JimmyFallon" weight="1" />
-      <edge id="92" source="TrumpPence16" target="DebateNight" weight="1" />
-      <edge id="93" source="TrumpPence16" target="TheTonightShow" weight="1" />
-      <edge id="94" source="TrumpPence16" target="TheDonald" weight="1" />
-      <edge id="95" source="TrumpPence16" target="MAGA" weight="5" />
-      <edge id="96" source="CTPrimary" target="PAPrimary" weight="1" />
-      <edge id="97" source="CTPrimary" target="DEPrimary" weight="1" />
-      <edge id="98" source="CTPrimary" target="RIPrimary" weight="1" />
-      <edge id="99" source="CTPrimary" target="MDPrimary" weight="1" />
-      <edge id="100" source="OrlandoUnited" target="Filibuster" weight="1" />
-      <edge id="101" source="imwithher" target="ADA" weight="1" />
-      <edge id="102" source="imwithher" target="CripTheVote" weight="1" />
-      <edge id="103" source="RIP" target="DivoDeJuarez" weight="1" />
-      <edge id="104" source="RIP" target="JuanGabriel" weight="1" />
-      <edge id="105" source="BlackMenForBernie" target="BlacksForTrump" weight="1" />
-      <edge id="106" source="BlackMenForBernie" target="Hillary2016" weight="1" />
-      <edge id="107" source="DavidCameron" target="WH" weight="1" />
-      <edge id="108" source="UT" target="AZ" weight="1" />
-      <edge id="109" source="SuperSaturday" target="Trump2016" weight="2" />
-      <edge id="110" source="UTCaucus" target="MakeAmericaGreatAgain" weight="1" />
-      <edge id="111" source="UTCaucus" target="AmericanSamoa" weight="1" />
-      <edge id="112" source="UTCaucus" target="Trump2016" weight="1" />
-      <edge id="113" source="UTCaucus" target="ArizonaPrimary" weight="1" />
-      <edge id="114" source="UTCaucus" target="VoteTrump" weight="1" />
-      <edge id="115" source="UTCaucus" target="UtahCaucus" weight="2" />
-      <edge id="116" source="TedCruz" target="LaurenceTribe" weight="1" />
-      <edge id="117" source="TedCruz" target="MaryBrigidMcManamon" weight="1" />
-      <edge id="118" source="DebateNight" target="ImWithYou" weight="1" />
-      <edge id="119" source="DebateNight" target="MAGA" weight="1" />
-      <edge id="120" source="DebateNight" target="ISIS" weight="1" />
-      <edge id="121" source="EauClaire" target="Racine" weight="1" />
-      <edge id="122" source="EauClaire" target="Trump2016" weight="1" />
-      <edge id="123" source="EauClaire" target="WIPrimary" weight="1" />
-      <edge id="124" source="EauClaire" target="Wausau" weight="1" />
-      <edge id="125" source="EauClaire" target="TrumpTrain" weight="1" />
-      <edge id="126" source="campaignfinance" target="CitizensUnited" weight="1" />
-      <edge id="127" source="TPP" target="Debates2016" weight="1" />
-      <edge id="128" source="enough" target="ImWithHer" weight="1" />
-      <edge id="129" source="USA" target="MakeAmericaGreatAgain" weight="1" />
-      <edge id="130" source="gunviolence" target="NoMoreSilence" weight="1" />
-      <edge id="131" source="gunviolence" target="sitin" weight="1" />
-      <edge id="132" source="gunviolence" target="NoBillNoBreak" weight="1" />
-      <edge id="133" source="CripTheVote" target="ADA" weight="1" />
-      <edge id="134" source="ECONOMY" target="MakeAmericaGreatAgain" weight="1" />
-      <edge id="135" source="ECONOMY" target="Trump2016" weight="1" />
-      <edge id="136" source="TrumpMovement" target="MAGA" weight="1" />
-      <edge id="137" source="NATO" target="DemsInPhilly" weight="1" />
-      <edge id="138" source="NATO" target="StandTogether" weight="1" />
-      <edge id="139" source="GOP" target="jenniferrubin" weight="1" />
-      <edge id="140" source="GOP" target="MattSchlapp" weight="1" />
-      <edge id="141" source="ClintonKaine" target="ImWithHer" weight="1" />
-      <edge id="142" source="sitin" target="NoBillNoBreak" weight="1" />
-      <edge id="143" source="sitin" target="EndGunViolence" weight="1" />
-      <edge id="144" source="sitin" target="DisarmHate" weight="1" />
-      <edge id="145" source="sitin" target="NoMoreSilence" weight="1" />
-      <edge id="146" source="TrumpWon" target="MAGA" weight="1" />
-      <edge id="147" source="TrumpWon" target="1" weight="1" />
-      <edge id="148" source="ChangeAgents" target="MichaelBrown" weight="1" />
-      <edge id="149" source="ChangeAgents" target="MothersoftheMovement" weight="1" />
-      <edge id="150" source="HillaryClinton" target="Prince" weight="1" />
-      <edge id="151" source="PrimaryDay" target="iVoted" weight="1" />
-      <edge id="152" source="PrimaryDay" target="POTUS" weight="1" />
-      <edge id="153" source="PrimaryDay" target="Trump2016" weight="1" />
-      <edge id="154" source="GOPinCLE" target="GOPConvention" weight="1" />
-      <edge id="155" source="MattSchlapp" target="jenniferrubin" weight="1" />
-      <edge id="156" source="Carrier" target="Jobs" weight="1" />
-      <edge id="157" source="Carrier" target="Trump" weight="1" />
-      <edge id="158" source="Carrier" target="Ford" weight="1" />
-      <edge id="159" source="NHPolitics" target="FITN" weight="2" />
-      <edge id="160" source="NHPolitics" target="Trump2016" weight="2" />
-      <edge id="161" source="holdthefloor" target="NoMoreSilence" weight="1" />
-      <edge id="162" source="holdthefloor" target="NoBillNoBreak" weight="1" />
-      <edge id="163" source="WattersWorld" target="Trump2016" weight="1" />
-      <edge id="164" source="Rio2016" target="OpeningCeremony" weight="1" />
-      <edge id="165" source="SCPrimary" target="MakeAmericaGreatAgain" weight="3" />
-      <edge id="166" source="SCPrimary" target="Trump2016" weight="3" />
-      <edge id="167" source="MichaelMoore" target="ROGERAILES" weight="1" />
-      <edge id="168" source="primary" target="presidenttrump" weight="1" />
-      <edge id="169" source="primary" target="Trump2016" weight="1" />
-      <edge id="170" source="AlwaysTrump" target="MAGA" weight="1" />
-      <edge id="171" source="AlwaysTrump" target="Trump2016" weight="1" />
-      <edge id="172" source="AlwaysTrump" target="TrumpTrain" weight="1" />
-      <edge id="173" source="DefendtheSecond" target="NeverHillary" weight="1" />
-      <edge id="174" source="DefendtheSecond" target="ElectionDay" weight="1" />
-      <edge id="175" source="Srebrenica" target="NeverForget" weight="1" />
-      <edge id="176" source="smallbiz" target="taxplan" weight="1" />
-      <edge id="177" source="INPrimary" target="MakeAmericaGreatAgain" weight="1" />
-      <edge id="178" source="INPrimary" target="VoteTrump" weight="6" />
-      <edge id="179" source="INPrimary" target="Trump2016" weight="3" />
-      <edge id="180" source="Benghazi" target="Debates2016" weight="1" />
-      <edge id="181" source="Benghazi" target="debatenight" weight="1" />
-      <edge id="182" source="Ford" target="Jobs" weight="1" />
-      <edge id="183" source="Ford" target="Trump" weight="1" />
-      <edge id="184" source="WashingtonDC" target="Statehood" weight="1" />
-      <edge id="185" source="EndGunViolence" target="DisarmHate" weight="1" />
-      <edge id="186" source="Teachers4Trump" target="CA4Trump" weight="1" />
-      <edge id="187" source="JuanGabriel" target="DivoDeJuarez" weight="1" />
-      <edge id="188" source="BuildTheWall" target="Hannity" weight="1" />
-      <edge id="189" source="MaryBrigidMcManamon" target="Cruz" weight="1" />
-      <edge id="190" source="ICYMI" target="trump2016" weight="1" />
-      <edge id="191" source="ICYMI" target="Trump2016" weight="1" />
-      <edge id="192" source="With_Cruz_you_lose" target="MakeAmericaGreatAgain" weight="1" />
-      <edge id="193" source="With_Cruz_you_lose" target="trump2016" weight="1" />
-      <edge id="194" source="TeamTrump" target="MaitnerStrong" weight="1" />
-      <edge id="195" source="LGBT" target="Pulse" weight="1" />
-      <edge id="196" source="KansasCaucus" target="MakeAmericaGreatAgain" weight="1" />
-      <edge id="197" source="KansasCaucus" target="Trump2016" weight="1" />
-      <edge id="198" source="GIBill" target="veterans" weight="1" />
-      <edge id="199" source="IACaucus" target="GOPDebate" weight="1" />
-      <edge id="200" source="IACaucus" target="MakeAmericaGreatAgain" weight="6" />
-      <edge id="201" source="IACaucus" target="FITN" weight="4" />
-      <edge id="202" source="IACaucus" target="IAPolitics" weight="1" />
-      <edge id="203" source="IACaucus" target="Trump2016" weight="8" />
-      <edge id="204" source="IACaucus" target="CaucusForTrump" weight="3" />
-      <edge id="205" source="IACaucus" target="VoteTrump" weight="2" />
-      <edge id="206" source="DemsinPhilly" target="StrongerTogether" weight="1" />
-      <edge id="207" source="DemsinPhilly" target="DNCinPHL" weight="1" />
-      <edge id="208" source="RTM2016" target="Trump2016" weight="1" />
-      <edge id="209" source="LoneStarState" target="MakeAmericaGreatAgain" weight="1" />
-      <edge id="210" source="TBT" target="MAGA" weight="1" />
-      <edge id="211" source="TBT" target="HillaryOnGMA" weight="1" />
-      <edge id="212" source="BlacksForTrump" target="Hillary2016" weight="1" />
-      <edge id="213" source="ObamaCare" target="MAKEAMERICAGREATAGAIN" weight="1" />
-      <edge id="214" source="Jobs" target="Trump" weight="1" />
-      <edge id="215" source="Colbert" target="LSSC" weight="1" />
-      <edge id="216" source="NASCAR" target="VoteTrump" weight="1" />
-      <edge id="217" source="NASCAR" target="Trump2016" weight="1" />
-      <edge id="218" source="LyingTed" target="NeverCruz" weight="1" />
-      <edge id="219" source="WeWantTrump" target="WeAreBernie" weight="1" />
-      <edge id="220" source="WeWantTrump" target="makeamericagreatagain" weight="1" />
-      <edge id="221" source="WeWantTrump" target="trump" weight="1" />
-      <edge id="222" source="FITN" target="MakeAmericaGreatAgain" weight="3" />
-      <edge id="223" source="FITN" target="IAPolitics" weight="1" />
-      <edge id="224" source="FITN" target="Trump2016" weight="9" />
-      <edge id="225" source="FITN" target="NewHampshire" weight="1" />
-      <edge id="226" source="FITN" target="VoteTrump" weight="2" />
-      <edge id="227" source="VoterRegistrationDay" target="MakeAmericaGreatAgain" weight="1" />
-      <edge id="228" source="UtahCaucus" target="VoteTrump" weight="1" />
-      <edge id="229" source="UtahCaucus" target="AmericanSamoa" weight="1" />
-      <edge id="230" source="UtahCaucus" target="Trump2016" weight="1" />
-      <edge id="231" source="UtahCaucus" target="ArizonaPrimary" weight="1" />
-      <edge id="232" source="UtahCaucus" target="MakeAmericaGreatAgain" weight="1" />
-      <edge id="233" source="TrumpPence2016" target="NeverHillary" weight="1" />
-      <edge id="234" source="TrumpPence2016" target="RNCinCLE" weight="1" />
-      <edge id="235" source="WCS16" target="ImWithYou" weight="1" />
-      <edge id="236" source="Utah4Trump" target="UtahPrimary" weight="1" />
-      <edge id="237" source="Utah4Trump" target="TrumpCountry" weight="1" />
-      <edge id="238" source="Utah4Trump" target="Utah" weight="1" />
-      <edge id="239" source="Utah4Trump" target="Mormon" weight="1" />
-      <edge id="240" source="Mormon" target="UtahPrimary" weight="1" />
-      <edge id="241" source="Mormon" target="TrumpCountry" weight="1" />
-      <edge id="242" source="Mormon" target="Utah" weight="1" />
-      <edge id="243" source="Clinton" target="Trump" weight="1" />
-      <edge id="244" source="MichaelBrown" target="MothersoftheMovement" weight="1" />
-      <edge id="245" source="DEPrimary" target="PAPrimary" weight="1" />
-      <edge id="246" source="DEPrimary" target="MDPrimary" weight="1" />
-      <edge id="247" source="DEPrimary" target="RIPrimary" weight="1" />
-      <edge id="248" source="WIPrimary" target="MakeAmericaGreatAgain" weight="1" />
-      <edge id="249" source="WIPrimary" target="Racine" weight="1" />
-      <edge id="250" source="WIPrimary" target="TrumpTrain" weight="1" />
-      <edge id="251" source="WIPrimary" target="MAGA" weight="1" />
-      <edge id="252" source="WIPrimary" target="Trump2016" weight="10" />
-      <edge id="253" source="WIPrimary" target="VoteTrump" weight="1" />
-      <edge id="254" source="WIPrimary" target="Wausau" weight="1" />
-      <edge id="255" source="Elkhart" target="POTUS" weight="1" />
-      <edge id="256" source="Elkhart" target="MakeAmericaGreatAgain" weight="1" />
-      <edge id="257" source="TheDonald" target="JimmyFallon" weight="1" />
-      <edge id="258" source="TheDonald" target="TheTonightShow" weight="1" />
-      <edge id="259" source="Debates2016" target="debatenight" weight="1" />
-      <edge id="260" source="Debates2016" target="slipping" weight="1" />
-      <edge id="261" source="Debates2016" target="Polls" weight="1" />
-      <edge id="262" source="Debates2016" target="NationalVoterRegistrationDay" weight="1" />
-      <edge id="263" source="Debates2016" target="MAGA" weight="3" />
-      <edge id="264" source="TheTonightShow" target="JimmyFallon" weight="1" />
-      <edge id="265" source="MeetTheTrumps" target="Trump2016" weight="1" />
-      <edge id="266" source="RIPrimary" target="PAPrimary" weight="1" />
-      <edge id="267" source="RIPrimary" target="VoteTrump" weight="1" />
-      <edge id="268" source="RIPrimary" target="MDPrimary" weight="1" />
-      <edge id="269" source="NeverHillary" target="MAGA" weight="1" />
-      <edge id="270" source="NeverHillary" target="SCOTUS" weight="1" />
-      <edge id="271" source="NeverHillary" target="ElectionDay" weight="1" />
-      <edge id="272" source="SB50" target="GOPDebate" weight="1" />
-      <edge id="273" source="SB50" target="SuperBowlSunday" weight="1" />
-      <edge id="274" source="DemConvention" target="DemsInPhilly" weight="1" />
-      <edge id="275" source="DemConvention" target="ImWithHer" weight="1" />
-      <edge id="276" source="TRUMP2016" target="MAGA" weight="1" />
-      <edge id="277" source="ImWithYou" target="MakeAmericaGreatAgain" weight="6" />
-      <edge id="278" source="ImWithYou" target="VoteTrump" weight="1" />
-      <edge id="279" source="ImWithYou" target="LawandOrder" weight="2" />
-      <edge id="280" source="ImWithYou" target="TrumpTrain" weight="1" />
-      <edge id="281" source="ImWithYou" target="MAGA" weight="5" />
-      <edge id="282" source="ImWithYou" target="Trump2016" weight="2" />
-      <edge id="283" source="RNCinCLE" target="MakeAmericaGreatAgain" weight="1" />
-      <edge id="284" source="RNCinCLE" target="TrumpIsWithYou" weight="1" />
-      <edge id="285" source="RNCinCLE" target="GOPConvention" weight="2" />
-      <edge id="286" source="StopCommonCore" target="MakeAmericaGreatAgain" weight="1" />
-      <edge id="287" source="TrumpCountry" target="UtahPrimary" weight="1" />
-      <edge id="288" source="TrumpCountry" target="Utah" weight="1" />
-      <edge id="289" source="NewYorkValues" target="NewYork" weight="1" />
-      <edge id="290" source="NewYorkValues" target="VoteTrump" weight="1" />
-      <edge id="291" source="NewYorkValues" target="Jonas" weight="1" />
-      <edge id="292" source="NewYorkValues" target="Trump2016" weight="1" />
-      <edge id="293" source="Jonas" target="NewYork" weight="1" />
-      <edge id="294" source="UtahPrimary" target="Utah" weight="1" />
-      <edge id="295" source="ORPrimary" target="VoteTrump" weight="1" />
-      <edge id="296" source="AmericanSamoa" target="VoteTrump" weight="1" />
-      <edge id="297" source="AmericanSamoa" target="ArizonaPrimary" weight="1" />
-      <edge id="298" source="Fox" target="KenLangone" weight="1" />
-      <edge id="299" source="Orlando" target="StoptheHate" weight="1" />
-      <edge id="300" source="CAPrimary" target="MakeAmericaGreatAgain" weight="1" />
-      <edge id="301" source="TrumpIsWithYou" target="MakeAmericaGreatAgain" weight="1" />
-      <edge id="302" source="FeelTheBern" target="ImWithHer" weight="1" />
-      <edge id="303" source="CBNNews" target="2016" weight="1" />
-      <edge id="304" source="RNC" target="Trump2016" weight="1" />
-      <edge id="305" source="trump2016" target="MakeAmericaGreatAgain" weight="2" />
-      <edge id="306" source="MAKEAMERICAGREATAGAIN" target="Hannity" weight="1" />
-      <edge id="307" source="presidenttrump" target="Trump2016" weight="1" />
-      <edge id="308" source="NoMoreSilence" target="NoBillNoBreak" weight="2" />
-      <edge id="309" source="VotersSpeak" target="MakeAmericaGreatAgain" weight="1" />
-      <edge id="310" source="brexit" target="MAGA" weight="1" />
-      <edge id="311" source="Hannity" target="Trump2016" weight="1" />
-      <edge id="312" source="NebraskaPrimary" target="TrumpForPresident" weight="1" />
-      <edge id="313" source="NebraskaPrimary" target="Trump2016" weight="1" />
-      <edge id="314" source="TrumpTrain" target="Wisconsin" weight="1" />
-      <edge id="315" source="TrumpTrain" target="Trump2016" weight="10" />
-      <edge id="316" source="TrumpTrain" target="Wausau" weight="1" />
-      <edge id="317" source="TrumpTrain" target="GOPDebate" weight="1" />
-      <edge id="318" source="TrumpTrain" target="MakeAmericaGreatAgain" weight="8" />
-      <edge id="319" source="TrumpTrain" target="Racine" weight="1" />
-      <edge id="320" source="TrumpTrain" target="VoteTrump2016" weight="1" />
-      <edge id="321" source="TrumpTrain" target="WesternTuesday" weight="1" />
-      <edge id="322" source="TrumpTrain" target="MAGA" weight="3" />
-      <edge id="323" source="goodtrouble" target="NoBillNoBreak" weight="1" />
-      <edge id="324" source="DemsInPhilly" target="LoveTrumpsHate" weight="1" />
-      <edge id="325" source="DemsInPhilly" target="ImWithHer" weight="1" />
-      <edge id="326" source="SuperBowlSunday" target="GOPDebate" weight="1" />
-      <edge id="327" source="GOPDebate" target="MakeAmericaGreatAgain" weight="2" />
-      <edge id="328" source="makeamericagreatagain" target="WeAreBernie" weight="1" />
-      <edge id="329" source="makeamericagreatagain" target="trump" weight="1" />
-      <edge id="330" source="IAPolitics" target="VoteTrump" weight="1" />
-      <edge id="331" source="IAPolitics" target="Trump2016" weight="1" />
-      <edge id="332" source="VoterFraud" target="MSM" weight="1" />
-      <edge id="333" source="Rubio" target="Bush" weight="1" />
-      <edge id="334" source="TrumpForPresident" target="Trump2016" weight="1" />
-      <edge id="335" source="trump" target="WeAreBernie" weight="1" />
-      <edge id="336" source="PAPrimary" target="VoteTrump" weight="1" />
-      <edge id="337" source="PAPrimary" target="MDPrimary" weight="1" />
-      <edge id="338" source="POTUS" target="MakeAmericaGreatAgain" weight="1" />
-      <edge id="339" source="POTUS" target="Trump2016" weight="2" />
-      <edge id="340" source="Wisconsin" target="MakeAmericaGreatAgain" weight="1" />
-      <edge id="341" source="Women4Ttump" target="Trump2016" weight="1" />
-      <edge id="342" source="Trump2016" target="VoteTrump" weight="14" />
-      <edge id="343" source="Trump2016" target="Wausau" weight="1" />
-      <edge id="344" source="Trump2016" target="MakeAmericaGreatAgain" weight="103" />
-      <edge id="345" source="Trump2016" target="MAGA" weight="4" />
-      <edge id="346" source="Trump2016" target="Racine" weight="1" />
-      <edge id="347" source="Trump2016" target="WesternTuesday" weight="1" />
-      <edge id="348" source="Trump2016" target="ArizonaPrimary" weight="1" />
-      <edge id="349" source="slipping" target="Polls" weight="1" />
-      <edge id="350" source="Wausau" target="Racine" weight="1" />
-      <edge id="351" source="VoteTrump" target="MakeAmericaGreatAgain" weight="18" />
-      <edge id="352" source="VoteTrump" target="ArizonaPrimary" weight="1" />
-      <edge id="353" source="MakeAmericaGreatAgain" target="ArizonaPrimary" weight="1" />
+      <edge id="0" source="CitizensUnited" target="campaignfinance" weight="1" />
+      <edge id="1" source="Colbert" target="LSSC" weight="1" />
+      <edge id="2" source="MattSchlapp" target="jenniferrubin" weight="1" />
+      <edge id="3" source="MattSchlapp" target="GOP" weight="1" />
+      <edge id="4" source="INPrimary" target="Trump2016" weight="3" />
+      <edge id="5" source="INPrimary" target="MakeAmericaGreatAgain" weight="1" />
+      <edge id="6" source="INPrimary" target="VoteTrump" weight="6" />
+      <edge id="7" source="FITN" target="Trump2016" weight="9" />
+      <edge id="8" source="FITN" target="IAPolitics" weight="1" />
+      <edge id="9" source="FITN" target="VoteTrumpNH" weight="6" />
+      <edge id="10" source="FITN" target="NHPrimary" weight="6" />
+      <edge id="11" source="FITN" target="IACaucus" weight="4" />
+      <edge id="12" source="FITN" target="NewHampshire" weight="1" />
+      <edge id="13" source="FITN" target="MakeAmericaGreatAgain" weight="3" />
+      <edge id="14" source="FITN" target="VoteTrump" weight="2" />
+      <edge id="15" source="FITN" target="NHPolitics" weight="2" />
+      <edge id="16" source="goodtrouble" target="NoBillNoBreak" weight="1" />
+      <edge id="17" source="Hillary2016" target="BlacksForTrump" weight="1" />
+      <edge id="18" source="Hillary2016" target="BlackMenForBernie" weight="1" />
+      <edge id="19" source="Mexico" target="Carrier" weight="1" />
+      <edge id="20" source="Mexico" target="Trump" weight="1" />
+      <edge id="21" source="Mexico" target="Ford" weight="1" />
+      <edge id="22" source="Mexico" target="Jobs" weight="1" />
+      <edge id="23" source="TrumpIsWithYou" target="RNCinCLE" weight="1" />
+      <edge id="24" source="TrumpIsWithYou" target="MakeAmericaGreatAgain" weight="1" />
+      <edge id="25" source="ObamaCare" target="MAKEAMERICAGREATAGAIN" weight="1" />
+      <edge id="26" source="MaryBrigidMcManamon" target="CommonLaw" weight="1" />
+      <edge id="27" source="MaryBrigidMcManamon" target="NaturalBorn" weight="1" />
+      <edge id="28" source="MaryBrigidMcManamon" target="TedCruz" weight="1" />
+      <edge id="29" source="MaryBrigidMcManamon" target="Cruz" weight="1" />
+      <edge id="30" source="MichaelMoore" target="ROGERAILES" weight="1" />
+      <edge id="31" source="MichaelMoore" target="FoxNews" weight="1" />
+      <edge id="32" source="DNCinPHL" target="DemsinPhilly" weight="1" />
+      <edge id="33" source="Pulse" target="LGBT" weight="1" />
+      <edge id="34" source="DefendtheSecond" target="2A" weight="1" />
+      <edge id="35" source="DefendtheSecond" target="NeverHillary" weight="1" />
+      <edge id="36" source="DefendtheSecond" target="ElectionDay" weight="1" />
+      <edge id="37" source="TheDonald" target="TheTonightShow" weight="1" />
+      <edge id="38" source="TheDonald" target="JimmyFallon" weight="1" />
+      <edge id="39" source="TheDonald" target="TrumpPence16" weight="1" />
+      <edge id="40" source="2A" target="Trump2016" weight="1" />
+      <edge id="41" source="2A" target="ElectionDay" weight="1" />
+      <edge id="42" source="2A" target="NeverHillary" weight="2" />
+      <edge id="43" source="2A" target="SecondAmendment" weight="1" />
+      <edge id="44" source="2A" target="SCOTUS" weight="1" />
+      <edge id="45" source="ADA" target="CripTheVote" weight="1" />
+      <edge id="46" source="ADA" target="imwithher" weight="1" />
+      <edge id="47" source="2016" target="CBNNews" weight="1" />
+      <edge id="48" source="CrookedHillary" target="Trump2016" weight="1" />
+      <edge id="49" source="CrookedHillary" target="ImWithYou" weight="1" />
+      <edge id="50" source="CrookedHillary" target="TrumpPence16" weight="1" />
+      <edge id="51" source="OpeningCeremony" target="Rio2016" weight="1" />
+      <edge id="52" source="OpeningCeremony" target="TeamUSA" weight="1" />
+      <edge id="53" source="DebateNight" target="AmericaFirst" weight="2" />
+      <edge id="54" source="DebateNight" target="TrumpPence16" weight="1" />
+      <edge id="55" source="DebateNight" target="ISIS" weight="1" />
+      <edge id="56" source="DebateNight" target="ImWithYou" weight="1" />
+      <edge id="57" source="DebateNight" target="MAGA" weight="1" />
+      <edge id="58" source="VoteTrumpWI" target="WIPrimary" weight="1" />
+      <edge id="59" source="NeverHillary" target="MAGA" weight="1" />
+      <edge id="60" source="NeverHillary" target="SCOTUS" weight="1" />
+      <edge id="61" source="NeverHillary" target="ElectionDay" weight="1" />
+      <edge id="62" source="NeverHillary" target="TrumpPence2016" weight="1" />
+      <edge id="63" source="Carrier" target="Trump" weight="1" />
+      <edge id="64" source="Carrier" target="Ford" weight="1" />
+      <edge id="65" source="Carrier" target="Jobs" weight="1" />
+      <edge id="66" source="MakeYoutubeGreatAgain" target="Trump2016" weight="1" />
+      <edge id="67" source="VoteTrump" target="ImWithYou" weight="1" />
+      <edge id="68" source="VoteTrump" target="NYPrimary" weight="1" />
+      <edge id="69" source="VoteTrump" target="RIPrimary" weight="1" />
+      <edge id="70" source="VoteTrump" target="PAPrimary" weight="1" />
+      <edge id="71" source="VoteTrump" target="UTCaucus" weight="1" />
+      <edge id="72" source="VoteTrump" target="IACaucus" weight="2" />
+      <edge id="73" source="VoteTrump" target="ORPrimary" weight="1" />
+      <edge id="74" source="VoteTrump" target="IAPolitics" weight="1" />
+      <edge id="75" source="VoteTrump" target="NASCAR" weight="1" />
+      <edge id="76" source="VoteTrump" target="IowaCaucus" weight="1" />
+      <edge id="77" source="VoteTrump" target="Trump2016" weight="14" />
+      <edge id="78" source="VoteTrump" target="SuperTuesday" weight="5" />
+      <edge id="79" source="VoteTrump" target="NewYorkValues" weight="1" />
+      <edge id="80" source="VoteTrump" target="AmericanSamoa" weight="1" />
+      <edge id="81" source="VoteTrump" target="ArizonaPrimary" weight="1" />
+      <edge id="82" source="VoteTrump" target="UtahCaucus" weight="1" />
+      <edge id="83" source="VoteTrump" target="MakeAmericaGreatAgain" weight="18" />
+      <edge id="84" source="VoteTrump" target="AZPrimary" weight="2" />
+      <edge id="85" source="VoteTrump" target="WIPrimary" weight="1" />
+      <edge id="86" source="RTM2016" target="Trump2016" weight="1" />
+      <edge id="87" source="TrumpWaikiki" target="Mahalo" weight="1" />
+      <edge id="88" source="VoteTrumpNY" target="ICYMI" weight="1" />
+      <edge id="89" source="VoteTrumpNY" target="PrimaryDay" weight="1" />
+      <edge id="90" source="VoteTrumpNY" target="Trump2016" weight="2" />
+      <edge id="91" source="VoteTrumpNY" target="MakeAmericaGreatAgain" weight="1" />
+      <edge id="92" source="VoteTrumpNY" target="POTUS" weight="1" />
+      <edge id="93" source="UTCaucus" target="Trump2016" weight="1" />
+      <edge id="94" source="UTCaucus" target="UtahCaucus" weight="2" />
+      <edge id="95" source="UTCaucus" target="AmericanSamoa" weight="1" />
+      <edge id="96" source="UTCaucus" target="ArizonaPrimary" weight="1" />
+      <edge id="97" source="UTCaucus" target="MakeAmericaGreatAgain" weight="1" />
+      <edge id="98" source="UTCaucus" target="AZPrimary" weight="1" />
+      <edge id="99" source="VoterFraud" target="MSM" weight="1" />
+      <edge id="100" source="enough" target="ImWithHer" weight="1" />
+      <edge id="101" source="Jonas" target="NewYorkValues" weight="1" />
+      <edge id="102" source="Jonas" target="NewYork" weight="1" />
+      <edge id="103" source="LaurenceTribe" target="TedCruz" weight="1" />
+      <edge id="104" source="DEPrimary" target="PAPrimary" weight="1" />
+      <edge id="105" source="DEPrimary" target="MDPrimary" weight="1" />
+      <edge id="106" source="DEPrimary" target="CTPrimary" weight="1" />
+      <edge id="107" source="DEPrimary" target="RIPrimary" weight="1" />
+      <edge id="108" source="TRUMP2016" target="MAGA" weight="1" />
+      <edge id="109" source="NewYork" target="NewYorkValues" weight="1" />
+      <edge id="110" source="NHPolitics" target="Trump2016" weight="2" />
+      <edge id="111" source="veterans" target="GIBill" weight="1" />
+      <edge id="112" source="VotersSpeak" target="MakeAmericaGreatAgain" weight="1" />
+      <edge id="113" source="RIPrimary" target="MDPrimary" weight="1" />
+      <edge id="114" source="RIPrimary" target="PAPrimary" weight="1" />
+      <edge id="115" source="RIPrimary" target="CTPrimary" weight="1" />
+      <edge id="116" source="gunviolence" target="NoMoreSilence" weight="1" />
+      <edge id="117" source="gunviolence" target="NoBillNoBreak" weight="1" />
+      <edge id="118" source="gunviolence" target="sitin" weight="1" />
+      <edge id="119" source="gunviolence" target="AsLongAsItTakes" weight="1" />
+      <edge id="120" source="brexit" target="MAGA" weight="1" />
+      <edge id="121" source="Trump2016" target="ImWithYou" weight="2" />
+      <edge id="122" source="Trump2016" target="AlwaysTrump" weight="1" />
+      <edge id="123" source="Trump2016" target="AmericaFirst" weight="12" />
+      <edge id="124" source="Trump2016" target="MeetTheTrumps" weight="1" />
+      <edge id="125" source="Trump2016" target="NebraskaPrimary" weight="1" />
+      <edge id="126" source="Trump2016" target="POTUS" weight="2" />
+      <edge id="127" source="Trump2016" target="WesternTuesday" weight="1" />
+      <edge id="128" source="Trump2016" target="WattersWorld" weight="1" />
+      <edge id="129" source="Trump2016" target="ICYMI" weight="1" />
+      <edge id="130" source="Trump2016" target="ECONOMY" weight="1" />
+      <edge id="131" source="Trump2016" target="ArizonaPrimary" weight="1" />
+      <edge id="132" source="Trump2016" target="presidenttrump" weight="1" />
+      <edge id="133" source="Trump2016" target="SuperTuesday" weight="12" />
+      <edge id="134" source="Trump2016" target="Women4Ttump" weight="1" />
+      <edge id="135" source="Trump2016" target="VoteTrumpSC" weight="4" />
+      <edge id="136" source="Trump2016" target="FoxNews" weight="2" />
+      <edge id="137" source="Trump2016" target="PrimaryDay" weight="1" />
+      <edge id="138" source="Trump2016" target="SCPrimary" weight="3" />
+      <edge id="139" source="Trump2016" target="UtahCaucus" weight="1" />
+      <edge id="140" source="Trump2016" target="TrumpNV" weight="1" />
+      <edge id="141" source="Trump2016" target="VoteTrumpNV" weight="2" />
+      <edge id="142" source="Trump2016" target="Wausau" weight="1" />
+      <edge id="143" source="Trump2016" target="primary" weight="1" />
+      <edge id="144" source="Trump2016" target="SuperSaturday" weight="2" />
+      <edge id="145" source="Trump2016" target="TrumpTrain" weight="10" />
+      <edge id="146" source="Trump2016" target="KansasCaucus" weight="1" />
+      <edge id="147" source="Trump2016" target="NASCAR" weight="1" />
+      <edge id="148" source="Trump2016" target="LESM" weight="1" />
+      <edge id="149" source="Trump2016" target="RNC" weight="1" />
+      <edge id="150" source="Trump2016" target="Racine" weight="1" />
+      <edge id="151" source="Trump2016" target="IAPolitics" weight="1" />
+      <edge id="152" source="Trump2016" target="NYPrimary" weight="3" />
+      <edge id="153" source="Trump2016" target="IACaucus" weight="8" />
+      <edge id="154" source="Trump2016" target="EndCommonCore" weight="1" />
+      <edge id="155" source="Trump2016" target="AZPrimary" weight="2" />
+      <edge id="156" source="Trump2016" target="Hannity" weight="1" />
+      <edge id="157" source="Trump2016" target="EauClaire" weight="1" />
+      <edge id="158" source="Trump2016" target="MAGA" weight="4" />
+      <edge id="159" source="Trump2016" target="WIPrimary" weight="10" />
+      <edge id="160" source="Trump2016" target="MakeAmericaGreatAgain" weight="103" />
+      <edge id="161" source="Trump2016" target="TrumpForPresident" weight="1" />
+      <edge id="162" source="Trump2016" target="NewYorkValues" weight="1" />
+      <edge id="163" source="MAGA" target="TBT" weight="1" />
+      <edge id="164" source="MAGA" target="ImWithYou" weight="5" />
+      <edge id="165" source="MAGA" target="TrumpPence16" weight="5" />
+      <edge id="166" source="MAGA" target="TrumpMovement" weight="1" />
+      <edge id="167" source="MAGA" target="TrumpTrain" weight="3" />
+      <edge id="168" source="MAGA" target="AlwaysTrump" weight="1" />
+      <edge id="169" source="MAGA" target="Debates2016" weight="3" />
+      <edge id="170" source="MAGA" target="LESM" weight="2" />
+      <edge id="171" source="MAGA" target="WIPrimary" weight="1" />
+      <edge id="172" source="MAGA" target="AmericaFirst" weight="5" />
+      <edge id="173" source="MAGA" target="TrumpWon" weight="1" />
+      <edge id="174" source="Utah" target="Mormon" weight="1" />
+      <edge id="175" source="Utah" target="UtahPrimary" weight="1" />
+      <edge id="176" source="Utah" target="TrumpCountry" weight="1" />
+      <edge id="177" source="Utah" target="Utah4Trump" weight="1" />
+      <edge id="178" source="BuildTheWall" target="Hannity" weight="1" />
+      <edge id="179" source="WCS16" target="ImWithYou" weight="1" />
+      <edge id="180" source="LoneStarState" target="SuperTuesday" weight="1" />
+      <edge id="181" source="LoneStarState" target="MakeAmericaGreatAgain" weight="1" />
+      <edge id="182" source="sitin" target="EndGunViolence" weight="1" />
+      <edge id="183" source="sitin" target="NoBillNoBreak" weight="1" />
+      <edge id="184" source="sitin" target="DisarmHate" weight="1" />
+      <edge id="185" source="sitin" target="NoMoreSilence" weight="1" />
+      <edge id="186" source="sitin" target="AsLongAsItTakes" weight="1" />
+      <edge id="187" source="NewYorkValues" target="NYPrimary" weight="1" />
+      <edge id="188" source="POTUS" target="PrimaryDay" weight="1" />
+      <edge id="189" source="POTUS" target="MakeAmericaGreatAgain" weight="1" />
+      <edge id="190" source="POTUS" target="Elkhart" weight="1" />
+      <edge id="191" source="Rubio" target="Bush" weight="1" />
+      <edge id="192" source="ImWithYou" target="LawandOrder" weight="2" />
+      <edge id="193" source="ImWithYou" target="AmericaFirst" weight="12" />
+      <edge id="194" source="ImWithYou" target="MakeAmericaGreatAgain" weight="6" />
+      <edge id="195" source="ImWithYou" target="TrumpTrain" weight="1" />
+      <edge id="196" source="WesternTuesday" target="TrumpTrain" weight="1" />
+      <edge id="197" source="VoterRegistrationDay" target="MakeAmericaGreatAgain" weight="1" />
+      <edge id="198" source="Mormon" target="UtahPrimary" weight="1" />
+      <edge id="199" source="Mormon" target="TrumpCountry" weight="1" />
+      <edge id="200" source="Mormon" target="Utah4Trump" weight="1" />
+      <edge id="201" source="AZ" target="UT" weight="1" />
+      <edge id="202" source="DivoDeJuarez" target="JuanGabriel" weight="1" />
+      <edge id="203" source="DivoDeJuarez" target="RIP" weight="1" />
+      <edge id="204" source="NevadaCaucus" target="VoteTrumpNV" weight="4" />
+      <edge id="205" source="presidenttrump" target="primary" weight="1" />
+      <edge id="206" source="WH" target="DavidCameron" weight="1" />
+      <edge id="207" source="LeadRight2016" target="AmericaFirst" weight="1" />
+      <edge id="208" source="MothersoftheMovement" target="ChangeAgents" weight="1" />
+      <edge id="209" source="MothersoftheMovement" target="MichaelBrown" weight="1" />
+      <edge id="210" source="smallbiz" target="taxplan" weight="1" />
+      <edge id="211" source="HillaryClinton" target="Prince" weight="1" />
+      <edge id="212" source="TedCruz" target="CommonLaw" weight="1" />
+      <edge id="213" source="TedCruz" target="NaturalBorn" weight="1" />
+      <edge id="214" source="AlwaysTrump" target="TrumpTrain" weight="1" />
+      <edge id="215" source="NHPrimary" target="VoteTrumpNH" weight="2" />
+      <edge id="216" source="JimmyFallon" target="TrumpPence16" weight="1" />
+      <edge id="217" source="JimmyFallon" target="TheTonightShow" weight="1" />
+      <edge id="218" source="FoxNews" target="ROGERAILES" weight="1" />
+      <edge id="219" source="FoxNews" target="MakeAmericaGreatAgain" weight="1" />
+      <edge id="220" source="LoveTrumpsHate" target="DemsInPhilly" weight="1" />
+      <edge id="221" source="DemsinPhilly" target="StrongerTogether" weight="1" />
+      <edge id="222" source="NaturalBorn" target="CommonLaw" weight="1" />
+      <edge id="223" source="TrumpForPresident" target="NebraskaPrimary" weight="1" />
+      <edge id="224" source="CTPrimary" target="PAPrimary" weight="1" />
+      <edge id="225" source="CTPrimary" target="MDPrimary" weight="1" />
+      <edge id="226" source="TBT" target="HillaryOnGMA" weight="1" />
+      <edge id="227" source="Wausau" target="EauClaire" weight="1" />
+      <edge id="228" source="Wausau" target="TrumpTrain" weight="1" />
+      <edge id="229" source="Wausau" target="Racine" weight="1" />
+      <edge id="230" source="Wausau" target="WIPrimary" weight="1" />
+      <edge id="231" source="imwithher" target="CripTheVote" weight="1" />
+      <edge id="232" source="Statehood" target="WashingtonDC" weight="1" />
+      <edge id="233" source="jenniferrubin" target="GOP" weight="1" />
+      <edge id="234" source="PrimaryDay" target="iVoted" weight="1" />
+      <edge id="235" source="StoptheHate" target="Orlando" weight="1" />
+      <edge id="236" source="With_Cruz_you_lose" target="trump2016" weight="1" />
+      <edge id="237" source="With_Cruz_you_lose" target="MakeAmericaGreatAgain" weight="1" />
+      <edge id="238" source="KansasCaucus" target="MakeAmericaGreatAgain" weight="1" />
+      <edge id="239" source="KenLangone" target="NeilCavuto" weight="1" />
+      <edge id="240" source="KenLangone" target="Fox" weight="1" />
+      <edge id="241" source="MyTeacherIsWeird" target="FallonTonight" weight="1" />
+      <edge id="242" source="NeilCavuto" target="Fox" weight="1" />
+      <edge id="243" source="ClintonKaine" target="ImWithHer" weight="1" />
+      <edge id="244" source="VoteTrump2016" target="TrumpTrain" weight="1" />
+      <edge id="245" source="trump" target="makeamericagreatagain" weight="1" />
+      <edge id="246" source="trump" target="WeWantTrump" weight="1" />
+      <edge id="247" source="trump" target="WeAreBernie" weight="1" />
+      <edge id="248" source="RIP" target="JuanGabriel" weight="1" />
+      <edge id="249" source="MAKEAMERICAGREATAGAIN" target="Hannity" weight="1" />
+      <edge id="250" source="GOPDebate" target="MakeAmericaGreatAgain" weight="2" />
+      <edge id="251" source="GOPDebate" target="IACaucus" weight="1" />
+      <edge id="252" source="GOPDebate" target="SuperBowlSunday" weight="1" />
+      <edge id="253" source="GOPDebate" target="TrumpTrain" weight="1" />
+      <edge id="254" source="GOPDebate" target="SB50" weight="1" />
+      <edge id="255" source="BlacksForTrump" target="BlackMenForBernie" weight="1" />
+      <edge id="256" source="AZPrimary" target="UtahCaucus" weight="1" />
+      <edge id="257" source="AZPrimary" target="AmericanSamoa" weight="1" />
+      <edge id="258" source="AZPrimary" target="ArizonaPrimary" weight="2" />
+      <edge id="259" source="AZPrimary" target="MakeAmericaGreatAgain" weight="2" />
+      <edge id="260" source="Clinton" target="Trump" weight="1" />
+      <edge id="261" source="GOPinCLE" target="AmericaFirst" weight="1" />
+      <edge id="262" source="GOPinCLE" target="GOPConvention" weight="1" />
+      <edge id="263" source="UtahPrimary" target="TrumpCountry" weight="1" />
+      <edge id="264" source="UtahPrimary" target="Utah4Trump" weight="1" />
+      <edge id="265" source="holdthefloor" target="NoBillNoBreak" weight="1" />
+      <edge id="266" source="holdthefloor" target="NoMoreSilence" weight="1" />
+      <edge id="267" source="WIPrimary" target="EauClaire" weight="1" />
+      <edge id="268" source="WIPrimary" target="TrumpTrain" weight="1" />
+      <edge id="269" source="WIPrimary" target="Racine" weight="1" />
+      <edge id="270" source="WIPrimary" target="MakeAmericaGreatAgain" weight="1" />
+      <edge id="271" source="NewDay" target="MakeAmericaGreatAgain" weight="1" />
+      <edge id="272" source="SuperBowlSunday" target="SB50" weight="1" />
+      <edge id="273" source="TeamTrump" target="MaitnerStrong" weight="1" />
+      <edge id="274" source="RNCinCLE" target="AmericaFirst" weight="4" />
+      <edge id="275" source="RNCinCLE" target="TrumpPence2016" weight="1" />
+      <edge id="276" source="RNCinCLE" target="MakeAmericaGreatAgain" weight="1" />
+      <edge id="277" source="RNCinCLE" target="GOPConvention" weight="2" />
+      <edge id="278" source="DemConvention" target="DemsInPhilly" weight="1" />
+      <edge id="279" source="DemConvention" target="ImWithHer" weight="1" />
+      <edge id="280" source="TrumpCountry" target="Utah4Trump" weight="1" />
+      <edge id="281" source="makeamericagreatagain" target="WeWantTrump" weight="1" />
+      <edge id="282" source="makeamericagreatagain" target="WeAreBernie" weight="1" />
+      <edge id="283" source="VoteTrumpNH" target="MakeAmericaGreatAgain" weight="1" />
+      <edge id="284" source="VoteTrumpNH" target="NewHampshire" weight="1" />
+      <edge id="285" source="StopCommonCore" target="MakeAmericaGreatAgain" weight="1" />
+      <edge id="286" source="AmericanSamoa" target="ArizonaPrimary" weight="1" />
+      <edge id="287" source="AmericanSamoa" target="UtahCaucus" weight="1" />
+      <edge id="288" source="UtahCaucus" target="ArizonaPrimary" weight="1" />
+      <edge id="289" source="UtahCaucus" target="MakeAmericaGreatAgain" weight="1" />
+      <edge id="290" source="TheTonightShow" target="TrumpPence16" weight="1" />
+      <edge id="291" source="VoteTrumpSC" target="SCPrimary" weight="2" />
+      <edge id="292" source="VoteTrumpSC" target="MakeAmericaGreatAgain" weight="1" />
+      <edge id="293" source="slipping" target="Polls" weight="1" />
+      <edge id="294" source="slipping" target="Debates2016" weight="1" />
+      <edge id="295" source="WeAreBernie" target="WeWantTrump" weight="1" />
+      <edge id="296" source="ECONOMY" target="MakeAmericaGreatAgain" weight="1" />
+      <edge id="297" source="TeamUSA" target="Rio2016" weight="1" />
+      <edge id="298" source="Benghazi" target="debatenight" weight="1" />
+      <edge id="299" source="Benghazi" target="Debates2016" weight="1" />
+      <edge id="300" source="DemsInPhilly" target="NATO" weight="1" />
+      <edge id="301" source="DemsInPhilly" target="ImWithHer" weight="1" />
+      <edge id="302" source="VoteTrumpNV" target="BikersForTrump" weight="1" />
+      <edge id="303" source="TrumpTrain" target="Racine" weight="1" />
+      <edge id="304" source="TrumpTrain" target="NYPrimary" weight="1" />
+      <edge id="305" source="TrumpTrain" target="Wisconsin" weight="1" />
+      <edge id="306" source="TrumpTrain" target="EauClaire" weight="1" />
+      <edge id="307" source="TrumpTrain" target="AmericaFirst" weight="2" />
+      <edge id="308" source="TrumpTrain" target="MakeAmericaGreatAgain" weight="8" />
+      <edge id="309" source="Filibuster" target="Enough" weight="1" />
+      <edge id="310" source="Filibuster" target="OrlandoUnited" weight="1" />
+      <edge id="311" source="Debates2016" target="debatenight" weight="1" />
+      <edge id="312" source="Debates2016" target="NationalVoterRegistrationDay" weight="1" />
+      <edge id="313" source="Debates2016" target="TPP" weight="1" />
+      <edge id="314" source="Debates2016" target="AmericaFirst" weight="1" />
+      <edge id="315" source="Debates2016" target="Polls" weight="1" />
+      <edge id="316" source="PAPrimary" target="MDPrimary" weight="1" />
+      <edge id="317" source="LaborDay" target="AmericaFirst" weight="1" />
+      <edge id="318" source="Politician" target="FAIL" weight="1" />
+      <edge id="319" source="Racine" target="EauClaire" weight="1" />
+      <edge id="320" source="LESM" target="MakeAmericaGreatAgain" weight="1" />
+      <edge id="321" source="NYPrimary" target="GOP" weight="1" />
+      <edge id="322" source="IACaucus" target="IAPolitics" weight="1" />
+      <edge id="323" source="IACaucus" target="CaucusForTrump" weight="3" />
+      <edge id="324" source="IACaucus" target="MakeAmericaGreatAgain" weight="6" />
+      <edge id="325" source="Jobs" target="Trump" weight="1" />
+      <edge id="326" source="Jobs" target="Ford" weight="1" />
+      <edge id="327" source="Teachers4Trump" target="CA4Trump" weight="1" />
+      <edge id="328" source="Teachers4Trump" target="NeverDems" weight="1" />
+      <edge id="329" source="Wisconsin" target="MakeAmericaGreatAgain" weight="1" />
+      <edge id="330" source="MichaelBrown" target="ChangeAgents" weight="1" />
+      <edge id="331" source="DisarmHate" target="EndGunViolence" weight="1" />
+      <edge id="332" source="MakeAmericaGreatAgain" target="CAPrimary" weight="1" />
+      <edge id="333" source="MakeAmericaGreatAgain" target="SuperTuesday" weight="7" />
+      <edge id="334" source="MakeAmericaGreatAgain" target="AmericaFirst" weight="2" />
+      <edge id="335" source="MakeAmericaGreatAgain" target="ArizonaPrimary" weight="1" />
+      <edge id="336" source="MakeAmericaGreatAgain" target="Elkhart" weight="1" />
+      <edge id="337" source="MakeAmericaGreatAgain" target="trump2016" weight="2" />
+      <edge id="338" source="MakeAmericaGreatAgain" target="USA" weight="1" />
+      <edge id="339" source="MakeAmericaGreatAgain" target="SCPrimary" weight="3" />
+      <edge id="340" source="NoMoreSilence" target="NoBillNoBreak" weight="2" />
+      <edge id="341" source="NoMoreSilence" target="AsLongAsItTakes" weight="1" />
+      <edge id="342" source="FeelTheBern" target="ImWithHer" weight="1" />
+      <edge id="343" source="Trump" target="Ford" weight="1" />
+      <edge id="344" source="NeverCruz" target="LyingTed" weight="1" />
+      <edge id="345" source="AmericaFirst" target="TrumpPence16" weight="1" />
+      <edge id="346" source="AmericaFirst" target="GOPConvention" weight="2" />
+      <edge id="347" source="ICYMI" target="trump2016" weight="1" />
+      <edge id="348" source="Srebrenica" target="NeverForget" weight="1" />
+      <edge id="349" source="NoBillNoBreak" target="AsLongAsItTakes" weight="1" />
+      <edge id="350" source="CA4Trump" target="NeverDems" weight="1" />
+      <edge id="351" source="NATO" target="StandTogether" weight="1" />
+      <edge id="352" source="1" target="TrumpWon" weight="1" />
+      <edge id="353" source="Enough" target="OrlandoUnited" weight="1" />
     </edges>
   </graph>
 </gexf>

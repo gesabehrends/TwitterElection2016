@@ -25,7 +25,9 @@ cur.execute("""SELECT
     avg(t.likes) AS likes_avg, 
     sum(t.retweets) AS retweets_total, 
     avg(t.retweets) AS retweets_avg, 
-    count(t.tweet_id) AS hashtag_count
+    count(t.tweet_id) AS hashtag_count,
+    min(t.datum) AS min_date,
+    max(t.datum) AS max_date
     FROM hashtags h 
         JOIN enthaelt e ON h.hashtag_id = e.hashtag_id
         JOIN tweets t ON e.tweet_id = t.tweet_id
@@ -38,12 +40,14 @@ hashtagData=pandas.DataFrame(cur.fetchall(),columns=[
     'likes_avg',
     'retweets_total',
     'retweets_avg',
-    'hashtag_count'])
+    'hashtag_count',
+    'first_oocurence',
+    'last_occurence'])
 
 hashtagData.to_csv("hashtagData.csv", sep=';', index=False)
 
 #only keep numerical data for cluster analysis, transform dataframe to array
-hashtagCluster = hashtagData.drop(["hashtag_content", "hashtag_id", "likes_total", "retweets_total"], axis=1)
+hashtagCluster = hashtagData.drop(["hashtag_content", "hashtag_id", "likes_total", "retweets_total", "first_oocurence", "last_occurence"], axis=1)
 hashtagClusterArray = hashtagCluster.values
 
 
@@ -99,4 +103,9 @@ plt.clf()
 fig, ax = plt.subplots()
 ax.scatter(hashtagData.hashtag_count, hashtagData.likes_avg, c=results.cluster, alpha=.3, s=30)
 plt.savefig('countLikes.pdf')
+plt.clf()
+
+fig, ax = plt.subplots()
+ax.scatter(hashtagData.hashtag_count, hashtagData.first_oocurence, c=results.cluster, alpha=.3, s=30)
+plt.savefig('countFirstOccurence.pdf')
 plt.clf()
