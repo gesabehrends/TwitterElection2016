@@ -1,0 +1,2698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-07-07">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="degree" title="Grad" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="componentnumber" title="Component ID" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="VoteTrumpNH" label="VoteTrumpNH">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="32"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="1125.1909" y="297.615"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="2A" label="2A">
+        <attvalues>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="163.26643" y="895.1553"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="VoteTrumpNV" label="VoteTrumpNV">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="22"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="89.61639" y="-343.01297"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Mexico" label="Mexico">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="componentnumber" value="1"></attvalue>
+          <attvalue for="modularity_class" value="17"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-1154.2317" y="-135.86789"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="TrumpNV" label="TrumpNV">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="163.70987" y="321.61987"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="Politician" label="Politician">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="modularity_class" value="23"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="406.2717" y="-729.47217"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="NeilCavuto" label="NeilCavuto">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="3"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-1160.2195" y="187.184"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="LeadRight2016" label="LeadRight2016">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-181.55716" y="80.33092"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="CrookedHillary" label="CrookedHillary">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-83.59247" y="226.64435"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="TrumpWaikiki" label="TrumpWaikiki">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="4"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-666.96313" y="-386.68283"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="AsLongAsItTakes" label="AsLongAsItTakes">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="componentnumber" value="5"></attvalue>
+          <attvalue for="modularity_class" value="43"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-526.8317" y="-884.93396"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="FallonTonight" label="FallonTonight">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="6"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-333.90436" y="-622.26764"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="NeverDems" label="NeverDems">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="7"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-831.7884" y="-394.28076"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="TeamUSA" label="TeamUSA">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="8"></attvalue>
+          <attvalue for="modularity_class" value="18"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-858.4322" y="-594.5416"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="AZPrimary" label="AZPrimary">
+        <attvalues>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="33"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="877.751" y="130.94624"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="VoteTrumpSC" label="VoteTrumpSC">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="355.2143" y="140.4118"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="SuperTuesday" label="SuperTuesday">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="673.5097" y="95.06874"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="NHPrimary" label="NHPrimary">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="32"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="1005.5868" y="581.1525"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="MakeYoutubeGreatAgain" label="MakeYoutubeGreatAgain">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="127.213585" y="-211.01666"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="NYPrimary" label="NYPrimary">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="521.2419" y="-78.40126"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="VoteTrumpNY" label="VoteTrumpNY">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="41"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="608.47363" y="-193.47908"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="NaturalBorn" label="NaturalBorn">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="componentnumber" value="9"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-998.2769" y="585.2454"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="LESM" label="LESM">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="61.75366" y="201.92865"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="NewDay" label="NewDay">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="384.64792" y="-348.34427"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="Enough" label="Enough">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="10"></attvalue>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-829.50946" y="821.5715"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="VoteTrumpWI" label="VoteTrumpWI">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="41"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="597.686" y="868.85944"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="FoxNews" label="FoxNews">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="19"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="735.16046" y="698.9042"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="IowaCaucus" label="IowaCaucus">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="1168.2903" y="-8.59971"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="EndCommonCore" label="EndCommonCore">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-19.942959" y="-201.58672"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="CommonLaw" label="CommonLaw">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="componentnumber" value="9"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-1060.6785" y="468.8832"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="AmericaFirst" label="AmericaFirst">
+        <attvalues>
+          <attvalue for="degree" value="13"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="3.7644262" y="345.71808"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="TrumpPence16" label="TrumpPence16">
+        <attvalues>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-237.40434" y="512.491"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="CTPrimary" label="CTPrimary">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="40"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="939.25836" y="-498.81827"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="OrlandoUnited" label="OrlandoUnited">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="10"></attvalue>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-678.53235" y="802.4191"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="imwithher" label="imwithher">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="11"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-639.52014" y="-613.6656"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="RIP" label="RIP">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="12"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="786.9155" y="-863.7556"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="BlackMenForBernie" label="BlackMenForBernie">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="13"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-535.4514" y="841.17834"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="DavidCameron" label="DavidCameron">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="14"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-871.74365" y="-100.73432"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="UT" label="UT">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="15"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-612.5058" y="681.0541"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="SuperSaturday" label="SuperSaturday">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="510.69965" y="356.4531"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="UTCaucus" label="UTCaucus">
+        <attvalues>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="33"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="1013.67975" y="196.4841"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="TedCruz" label="TedCruz">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="componentnumber" value="9"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-1110.4579" y="342.23456"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="DebateNight" label="DebateNight">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-169.14227" y="359.6225"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="EauClaire" label="EauClaire">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="41"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="455.49" y="647.13226"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="MyTeacherIsWeird" label="MyTeacherIsWeird">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="6"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-403.75797" y="-770.5406"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="campaignfinance" label="campaignfinance">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="16"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-104.4408" y="-760.8548"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="LaborDay" label="LaborDay">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-128.92825" y="599.84015"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="TPP" label="TPP">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-172.05394" y="-206.51651"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="enough" label="enough">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="17"></attvalue>
+          <attvalue for="modularity_class" value="38"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="17.597485" y="-1044.0009"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="USA" label="USA">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="230.8914" y="-369.57672"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="gunviolence" label="gunviolence">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="componentnumber" value="5"></attvalue>
+          <attvalue for="modularity_class" value="43"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-664.28156" y="-964.1499"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="CripTheVote" label="CripTheVote">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="11"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-548.1744" y="-730.85736"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="ECONOMY" label="ECONOMY">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="755.43677" y="376.0421"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="TrumpMovement" label="TrumpMovement">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-365.60794" y="269.18417"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="NATO" label="NATO">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="17"></attvalue>
+          <attvalue for="modularity_class" value="38"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-281.57364" y="-1010.7389"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="GOP" label="GOP">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="16"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="718.9682" y="-538.4253"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="ClintonKaine" label="ClintonKaine">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="17"></attvalue>
+          <attvalue for="modularity_class" value="38"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="200.17001" y="-903.135"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="sitin" label="sitin">
+        <attvalues>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="componentnumber" value="5"></attvalue>
+          <attvalue for="modularity_class" value="43"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-527.1065" y="-1030.1742"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Filibuster" label="Filibuster">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="10"></attvalue>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-707.89655" y="934.51385"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="TrumpWon" label="TrumpWon">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-255.98808" y="820.9349"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="ChangeAgents" label="ChangeAgents">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="18"></attvalue>
+          <attvalue for="modularity_class" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="489.33228" y="-870.07367"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="HillaryClinton" label="HillaryClinton">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="19"></attvalue>
+          <attvalue for="modularity_class" value="15"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-675.5813" y="32.303005"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="PrimaryDay" label="PrimaryDay">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="41"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="712.2442" y="-296.43362"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="GOPinCLE" label="GOPinCLE">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-139.6065" y="741.0626"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="MattSchlapp" label="MattSchlapp">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="16"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="724.4106" y="-706.232"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Carrier" label="Carrier">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="componentnumber" value="1"></attvalue>
+          <attvalue for="modularity_class" value="17"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-1128.9187" y="-278.35208"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="NHPolitics" label="NHPolitics">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="32"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="739.58234" y="543.5952"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="BikersForTrump" label="BikersForTrump">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="22"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="179.80147" y="-507.57043"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="holdthefloor" label="holdthefloor">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="5"></attvalue>
+          <attvalue for="modularity_class" value="43"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-899.4788" y="-741.78"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="WattersWorld" label="WattersWorld">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="184.564" y="-88.95162"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="Rio2016" label="Rio2016">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="8"></attvalue>
+          <attvalue for="modularity_class" value="18"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-745.76953" y="-511.88754"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="iVoted" label="iVoted">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="41"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="594.5143" y="-591.80963"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="SCPrimary" label="SCPrimary">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="427.47894" y="20.588642"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="MichaelMoore" label="MichaelMoore">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="19"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="579.6444" y="1014.35626"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="primary" label="primary">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="185.45189" y="618.3985"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="AlwaysTrump" label="AlwaysTrump">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="41"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="97.5205" y="457.5533"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="DefendtheSecond" label="DefendtheSecond">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="167.98195" y="1039.2258"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Srebrenica" label="Srebrenica">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="20"></attvalue>
+          <attvalue for="modularity_class" value="20"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="33.835415" y="-484.89185"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="smallbiz" label="smallbiz">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="21"></attvalue>
+          <attvalue for="modularity_class" value="27"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-207.87752" y="-347.95297"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="INPrimary" label="INPrimary">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="652.2982" y="-38.72443"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="Benghazi" label="Benghazi">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-313.89267" y="-189.36426"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="Ford" label="Ford">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="componentnumber" value="1"></attvalue>
+          <attvalue for="modularity_class" value="17"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-1092.2035" y="-425.86618"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="WashingtonDC" label="WashingtonDC">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="22"></attvalue>
+          <attvalue for="modularity_class" value="21"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-759.6768" y="165.90163"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="EndGunViolence" label="EndGunViolence">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="5"></attvalue>
+          <attvalue for="modularity_class" value="43"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-400.5782" y="-1093.9996"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Teachers4Trump" label="Teachers4Trump">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="7"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-982.07214" y="-332.38815"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="JuanGabriel" label="JuanGabriel">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="12"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="649.9927" y="-836.8012"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="BuildTheWall" label="BuildTheWall">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="28"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="314.37943" y="997.2441"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="NevadaCaucus" label="NevadaCaucus">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="22"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-60.996464" y="-346.29065"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="MaryBrigidMcManamon" label="MaryBrigidMcManamon">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="componentnumber" value="9"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-924.1709" y="699.32587"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="LaurenceTribe" label="LaurenceTribe">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="9"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-933.58325" y="405.16046"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="ICYMI" label="ICYMI">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="41"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="643.36017" y="-414.22302"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="FAIL" label="FAIL">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="modularity_class" value="23"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="439.42215" y="-599.72754"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="With_Cruz_you_lose" label="With_Cruz_you_lose">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="498.81894" y="-464.52322"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="TeamTrump" label="TeamTrump">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="23"></attvalue>
+          <attvalue for="modularity_class" value="24"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="47.875607" y="-765.58936"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="LGBT" label="LGBT">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="24"></attvalue>
+          <attvalue for="modularity_class" value="30"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-573.71497" y="-98.880875"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="KansasCaucus" label="KansasCaucus">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="742.704" y="211.2034"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="GIBill" label="GIBill">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="25"></attvalue>
+          <attvalue for="modularity_class" value="25"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-261.01434" y="-750.0916"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="IACaucus" label="IACaucus">
+        <attvalues>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="630.6951" y="278.16507"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="DemsinPhilly" label="DemsinPhilly">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="26"></attvalue>
+          <attvalue for="modularity_class" value="26"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-850.6054" y="283.0215"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="RTM2016" label="RTM2016">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="108.304565" y="51.954643"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="LoneStarState" label="LoneStarState">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="893.50476" y="-93.9297"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="TBT" label="TBT">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-450.66983" y="425.689"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="taxplan" label="taxplan">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="21"></attvalue>
+          <attvalue for="modularity_class" value="27"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-350.58057" y="-332.63568"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="BlacksForTrump" label="BlacksForTrump">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="13"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-392.9335" y="802.76526"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="ObamaCare" label="ObamaCare">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="28"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="278.90756" y="1140.8622"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Jobs" label="Jobs">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="componentnumber" value="1"></attvalue>
+          <attvalue for="modularity_class" value="17"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-1161.9495" y="0.035283662"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Colbert" label="Colbert">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="27"></attvalue>
+          <attvalue for="modularity_class" value="29"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-696.95703" y="546.99603"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="NASCAR" label="NASCAR">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="1037.4398" y="-70.392044"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="Pulse" label="Pulse">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="24"></attvalue>
+          <attvalue for="modularity_class" value="30"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-455.08362" y="-197.87619"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="LyingTed" label="LyingTed">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="28"></attvalue>
+          <attvalue for="modularity_class" value="31"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-29.145536" y="-625.322"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="WeWantTrump" label="WeWantTrump">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="componentnumber" value="29"></attvalue>
+          <attvalue for="modularity_class" value="39"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="647.63495" y="-975.9751"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="FITN" label="FITN">
+        <attvalues>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="32"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="883.0854" y="442.95355"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="VoterRegistrationDay" label="VoterRegistrationDay">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="341.74173" y="-103.150566"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="UtahCaucus" label="UtahCaucus">
+        <attvalues>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="33"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="993.49054" y="54.52165"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="TrumpPence2016" label="TrumpPence2016">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="9.8281975" y="855.5744"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="WCS16" label="WCS16">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-121.82426" y="-65.85004"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="Utah4Trump" label="Utah4Trump">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="componentnumber" value="30"></attvalue>
+          <attvalue for="modularity_class" value="34"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-334.71555" y="1103.6841"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Mormon" label="Mormon">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="componentnumber" value="30"></attvalue>
+          <attvalue for="modularity_class" value="34"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-469.73688" y="1072.8141"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Clinton" label="Clinton">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="1"></attvalue>
+          <attvalue for="modularity_class" value="17"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-998.49805" y="-22.462297"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="MichaelBrown" label="MichaelBrown">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="18"></attvalue>
+          <attvalue for="modularity_class" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="337.46564" y="-841.4141"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="DEPrimary" label="DEPrimary">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="40"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="1078.2267" y="-465.19016"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="WIPrimary" label="WIPrimary">
+        <attvalues>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="41"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="480.58374" y="498.39374"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Elkhart" label="Elkhart">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="41"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="991.2591" y="-210.41785"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="StrongerTogether" label="StrongerTogether">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="26"></attvalue>
+          <attvalue for="modularity_class" value="26"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-779.8841" y="420.14944"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="TheDonald" label="TheDonald">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-535.51385" y="552.90497"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="NeverForget" label="NeverForget">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="20"></attvalue>
+          <attvalue for="modularity_class" value="20"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-112.56734" y="-486.35464"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="ISIS" label="ISIS">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-519.95483" y="297.03674"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="Debates2016" label="Debates2016">
+        <attvalues>
+          <attvalue for="degree" value="8"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-323.9152" y="91.71134"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="TheTonightShow" label="TheTonightShow">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-381.67847" y="561.4055"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="MeetTheTrumps" label="MeetTheTrumps">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="27.31746" y="-67.34203"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="LSSC" label="LSSC">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="27"></attvalue>
+          <attvalue for="modularity_class" value="29"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-688.69574" y="303.19882"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="DisarmHate" label="DisarmHate">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="5"></attvalue>
+          <attvalue for="modularity_class" value="43"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-243.2685" y="-1148.6027"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="RIPrimary" label="RIPrimary">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="40"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="1111.9391" y="-315.61533"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="NeverHillary" label="NeverHillary">
+        <attvalues>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="27.437693" y="997.31384"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="SB50" label="SB50">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="41"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="920.94977" y="720.059"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="DemConvention" label="DemConvention">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="17"></attvalue>
+          <attvalue for="modularity_class" value="38"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-67.700195" y="-1170.5852"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="TRUMP2016" label="TRUMP2016">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-310.68863" y="396.7305"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="ImWithYou" label="ImWithYou">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="199.14967" y="176.49509"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="MothersoftheMovement" label="MothersoftheMovement">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="18"></attvalue>
+          <attvalue for="modularity_class" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="340.44934" y="-978.24347"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="NewHampshire" label="NewHampshire">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="32"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="1079.5883" y="457.834"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Mahalo" label="Mahalo">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="4"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-739.41125" y="-258.43307"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="RNCinCLE" label="RNCinCLE">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="46.926235" y="581.7077"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="StopCommonCore" label="StopCommonCore">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="439.4908" y="-208.41103"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="CA4Trump" label="CA4Trump">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="7"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-876.40564" y="-242.56718"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="JimmyFallon" label="JimmyFallon">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-462.39697" y="685.61206"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="TrumpCountry" label="TrumpCountry">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="componentnumber" value="30"></attvalue>
+          <attvalue for="modularity_class" value="34"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-206.48454" y="1146.2189"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="StandTogether" label="StandTogether">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="17"></attvalue>
+          <attvalue for="modularity_class" value="38"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-388.36795" y="-918.6619"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="ElectionDay" label="ElectionDay">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="106.43107" y="1160.0135"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="NeverCruz" label="NeverCruz">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="28"></attvalue>
+          <attvalue for="modularity_class" value="31"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="117.70641" y="-634.82245"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="NewYorkValues" label="NewYorkValues">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="36"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="843.5285" y="-256.5376"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Jonas" label="Jonas">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="36"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="840.72455" y="-611.8684"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="UtahPrimary" label="UtahPrimary">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="componentnumber" value="30"></attvalue>
+          <attvalue for="modularity_class" value="34"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-573.8083" y="987.125"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="ORPrimary" label="ORPrimary">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="1152.8431" y="-170.94724"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="AmericanSamoa" label="AmericanSamoa">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="33"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="1149.647" y="137.17426"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Fox" label="Fox">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="3"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-1058.1041" y="104.112564"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="MaitnerStrong" label="MaitnerStrong">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="23"></attvalue>
+          <attvalue for="modularity_class" value="24"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="61.045284" y="-903.05536"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Orlando" label="Orlando">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="31"></attvalue>
+          <attvalue for="modularity_class" value="35"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="207.75142" y="-755.63477"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="DNCinPHL" label="DNCinPHL">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="26"></attvalue>
+          <attvalue for="modularity_class" value="26"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-915.8647" y="137.23305"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="CAPrimary" label="CAPrimary">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="277.10095" y="-233.96858"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="KenLangone" label="KenLangone">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="3"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-1003.4335" y="256.29333"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="StoptheHate" label="StoptheHate">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="31"></attvalue>
+          <attvalue for="modularity_class" value="35"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="281.2485" y="-631.3842"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="jenniferrubin" label="jenniferrubin">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="16"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="560.99817" y="-728.0186"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="TrumpIsWithYou" label="TrumpIsWithYou">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="234.54591" y="458.0181"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="veterans" label="veterans">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="25"></attvalue>
+          <attvalue for="modularity_class" value="25"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-179.05528" y="-622.505"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="debatenight" label="debatenight">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-269.2458" y="-53.76615"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="NewYork" label="NewYork">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="36"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="816.051" y="-424.5146"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="FeelTheBern" label="FeelTheBern">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="17"></attvalue>
+          <attvalue for="modularity_class" value="38"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="173.56075" y="-1041.4629"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="CBNNews" label="CBNNews">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="32"></attvalue>
+          <attvalue for="modularity_class" value="37"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-474.56415" y="-609.18585"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="RNC" label="RNC">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="261.23145" y="29.899174"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="trump2016" label="trump2016">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="534.8757" y="-321.52173"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="Prince" label="Prince">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="19"></attvalue>
+          <attvalue for="modularity_class" value="15"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-609.22" y="173.64832"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="MAKEAMERICAGREATAGAIN" label="MAKEAMERICAGREATAGAIN">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="28"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="436.17438" y="1082.5553"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="HillaryOnGMA" label="HillaryOnGMA">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-611.14746" y="423.73523"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="presidenttrump" label="presidenttrump">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="302.16388" y="846.5334"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="NoMoreSilence" label="NoMoreSilence">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="componentnumber" value="5"></attvalue>
+          <attvalue for="modularity_class" value="43"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-662.24963" y="-816.80255"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="VotersSpeak" label="VotersSpeak">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="337.76263" y="-483.80057"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="brexit" label="brexit">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-284.78827" y="669.25616"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="Hannity" label="Hannity">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="28"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="449.12323" y="923.31665"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="NebraskaPrimary" label="NebraskaPrimary">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="449.34088" y="785.6988"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="WH" label="WH">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="14"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-723.4202" y="-110.360435"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="TrumpTrain" label="TrumpTrain">
+        <attvalues>
+          <attvalue for="degree" value="15"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="41"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="367.1907" y="411.6143"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="2016" label="2016">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="32"></attvalue>
+          <attvalue for="modularity_class" value="37"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-564.4235" y="-487.4519"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="goodtrouble" label="goodtrouble">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="5"></attvalue>
+          <attvalue for="modularity_class" value="43"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-1006.3631" y="-611.66077"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="GOPConvention" label="GOPConvention">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-3.736997" y="710.50006"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="Cruz" label="Cruz">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="9"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-856.0092" y="547.6346"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="DemsInPhilly" label="DemsInPhilly">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="componentnumber" value="17"></attvalue>
+          <attvalue for="modularity_class" value="38"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-133.37463" y="-1041.511"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="CaucusForTrump" label="CaucusForTrump">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="632.2643" y="447.12296"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="AZ" label="AZ">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="15"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-772.871" y="677.0502"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="SuperBowlSunday" label="SuperBowlSunday">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="41"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="815.24774" y="817.7834"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="GOPDebate" label="GOPDebate">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="41"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="857.8099" y="588.07996"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="makeamericagreatagain" label="makeamericagreatagain">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="componentnumber" value="29"></attvalue>
+          <attvalue for="modularity_class" value="39"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="419.06122" y="-1093.8452"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="VoteTrump2016" label="VoteTrump2016">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="41"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="142.44917" y="756.96576"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="IAPolitics" label="IAPolitics">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="986.0314" y="353.77414"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="VoterFraud" label="VoterFraud">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="33"></attvalue>
+          <attvalue for="modularity_class" value="44"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-500.27405" y="-350.5488"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Rubio" label="Rubio">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="34"></attvalue>
+          <attvalue for="modularity_class" value="45"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-262.31436" y="-485.7177"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Statehood" label="Statehood">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="22"></attvalue>
+          <attvalue for="modularity_class" value="21"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-826.6111" y="29.168676"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="LoveTrumpsHate" label="LoveTrumpsHate">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="17"></attvalue>
+          <attvalue for="modularity_class" value="38"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-82.38857" y="-904.6232"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="TrumpForPresident" label="TrumpForPresident">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="302.31088" y="712.7748"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="trump" label="trump">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="componentnumber" value="29"></attvalue>
+          <attvalue for="modularity_class" value="39"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="518.936" y="-1009.1822"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="PAPrimary" label="PAPrimary">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="40"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="963.9482" y="-353.89737"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="POTUS" label="POTUS">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="41"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="755.2126" y="-137.00697"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Wisconsin" label="Wisconsin">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="41"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="311.43164" y="283.7092"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Women4Ttump" label="Women4Ttump">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-38.821606" y="76.81765"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="Trump2016" label="Trump2016">
+        <attvalues>
+          <attvalue for="degree" value="52"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="461.98566" y="233.64153"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="ADA" label="ADA">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="11"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-751.92755" y="-698.60736"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="slipping" label="slipping">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-413.38715" y="-46.7803"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="MDPrimary" label="MDPrimary">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="40"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="993.8356" y="-626.14233"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Wausau" label="Wausau">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="41"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="598.50684" y="733.1034"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="VoteTrump" label="VoteTrump">
+        <attvalues>
+          <attvalue for="degree" value="21"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="806.1559" y="24.498928"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="NationalVoterRegistrationDay" label="NationalVoterRegistrationDay">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-452.2978" y="155.37555"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="MakeAmericaGreatAgain" label="MakeAmericaGreatAgain">
+        <attvalues>
+          <attvalue for="degree" value="37"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="543.7328" y="111.461075"></viz:position>
+        <viz:color r="241" g="8" b="123"></viz:color>
+      </node>
+      <node id="Utah" label="Utah">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="componentnumber" value="30"></attvalue>
+          <attvalue for="modularity_class" value="34"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-406.90036" y="944.64136"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="MAGA" label="MAGA">
+        <attvalues>
+          <attvalue for="degree" value="16"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-65.52181" y="469.3545"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="WeAreBernie" label="WeAreBernie">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="componentnumber" value="29"></attvalue>
+          <attvalue for="modularity_class" value="39"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="277.08105" y="-1132.6381"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="1" label="1">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-127.36216" y="901.2259"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="Trump" label="Trump">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="componentnumber" value="1"></attvalue>
+          <attvalue for="modularity_class" value="17"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-1016.6557" y="-170.19278"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="NoBillNoBreak" label="NoBillNoBreak">
+        <attvalues>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="componentnumber" value="5"></attvalue>
+          <attvalue for="modularity_class" value="43"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-795.44806" y="-856.71606"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="MSM" label="MSM">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="33"></attvalue>
+          <attvalue for="modularity_class" value="44"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-598.5001" y="-243.02757"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="DivoDeJuarez" label="DivoDeJuarez">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="12"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="883.39526" y="-754.14703"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="ROGERAILES" label="ROGERAILES">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="19"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="720.6068" y="920.2987"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="SecondAmendment" label="SecondAmendment">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-110.09216" y="1042.6244"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="ImWithHer" label="ImWithHer">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="componentnumber" value="17"></attvalue>
+          <attvalue for="modularity_class" value="38"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="100.03879" y="-1165.6182"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Hillary2016" label="Hillary2016">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="13"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-262.67853" y="973.8509"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Racine" label="Racine">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="41"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="598.50824" y="595.9654"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="LawandOrder" label="LawandOrder">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-230.1885" y="221.06812"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="WesternTuesday" label="WesternTuesday">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="41"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="330.79294" y="568.68646"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Polls" label="Polls">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-524.94" y="38.158627"></viz:position>
+        <viz:color r="95" g="165" b="253"></viz:color>
+      </node>
+      <node id="CitizensUnited" label="CitizensUnited">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="16"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-227.46075" y="-880.76434"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="OpeningCeremony" label="OpeningCeremony">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="8"></attvalue>
+          <attvalue for="modularity_class" value="18"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-953.74084" y="-482.17197"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="SCOTUS" label="SCOTUS">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-36.50706" y="1162.0782"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="ArizonaPrimary" label="ArizonaPrimary">
+        <attvalues>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="modularity_class" value="33"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="872.67737" y="273.49335"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Bush" label="Bush">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="componentnumber" value="34"></attvalue>
+          <attvalue for="modularity_class" value="45"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-406.1889" y="-473.00815"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="VoteTrumpNH" target="NewHampshire"></edge>
+      <edge id="1" source="VoteTrumpNH" target="MakeAmericaGreatAgain"></edge>
+      <edge id="2" source="VoteTrumpNH" target="FITN" weight="6.0"></edge>
+      <edge id="3" source="VoteTrumpNH" target="NHPrimary" weight="2.0"></edge>
+      <edge id="4" source="2A" target="DefendtheSecond"></edge>
+      <edge id="5" source="2A" target="SCOTUS"></edge>
+      <edge id="6" source="2A" target="Trump2016"></edge>
+      <edge id="7" source="2A" target="NeverHillary" weight="2.0"></edge>
+      <edge id="8" source="2A" target="SecondAmendment"></edge>
+      <edge id="9" source="2A" target="ElectionDay"></edge>
+      <edge id="10" source="VoteTrumpNV" target="BikersForTrump"></edge>
+      <edge id="11" source="VoteTrumpNV" target="NevadaCaucus" weight="4.0"></edge>
+      <edge id="12" source="VoteTrumpNV" target="Trump2016" weight="2.0"></edge>
+      <edge id="13" source="Mexico" target="Jobs"></edge>
+      <edge id="14" source="Mexico" target="Trump"></edge>
+      <edge id="15" source="Mexico" target="Ford"></edge>
+      <edge id="16" source="Mexico" target="Carrier"></edge>
+      <edge id="17" source="TrumpNV" target="Trump2016"></edge>
+      <edge id="18" source="Politician" target="FAIL"></edge>
+      <edge id="19" source="NeilCavuto" target="KenLangone"></edge>
+      <edge id="20" source="NeilCavuto" target="Fox"></edge>
+      <edge id="21" source="LeadRight2016" target="AmericaFirst"></edge>
+      <edge id="22" source="CrookedHillary" target="ImWithYou"></edge>
+      <edge id="23" source="CrookedHillary" target="TrumpPence16"></edge>
+      <edge id="24" source="CrookedHillary" target="Trump2016"></edge>
+      <edge id="25" source="TrumpWaikiki" target="Mahalo"></edge>
+      <edge id="26" source="AsLongAsItTakes" target="NoMoreSilence"></edge>
+      <edge id="27" source="AsLongAsItTakes" target="gunviolence"></edge>
+      <edge id="28" source="AsLongAsItTakes" target="NoBillNoBreak"></edge>
+      <edge id="29" source="AsLongAsItTakes" target="sitin"></edge>
+      <edge id="30" source="FallonTonight" target="MyTeacherIsWeird"></edge>
+      <edge id="31" source="NeverDems" target="CA4Trump"></edge>
+      <edge id="32" source="NeverDems" target="Teachers4Trump"></edge>
+      <edge id="33" source="TeamUSA" target="OpeningCeremony"></edge>
+      <edge id="34" source="TeamUSA" target="Rio2016"></edge>
+      <edge id="35" source="AZPrimary" target="MakeAmericaGreatAgain" weight="2.0"></edge>
+      <edge id="36" source="AZPrimary" target="AmericanSamoa"></edge>
+      <edge id="37" source="AZPrimary" target="UTCaucus"></edge>
+      <edge id="38" source="AZPrimary" target="Trump2016" weight="2.0"></edge>
+      <edge id="39" source="AZPrimary" target="ArizonaPrimary" weight="2.0"></edge>
+      <edge id="40" source="AZPrimary" target="VoteTrump" weight="2.0"></edge>
+      <edge id="41" source="AZPrimary" target="UtahCaucus"></edge>
+      <edge id="42" source="VoteTrumpSC" target="MakeAmericaGreatAgain"></edge>
+      <edge id="43" source="VoteTrumpSC" target="SCPrimary" weight="2.0"></edge>
+      <edge id="44" source="VoteTrumpSC" target="Trump2016" weight="4.0"></edge>
+      <edge id="45" source="SuperTuesday" target="LoneStarState"></edge>
+      <edge id="46" source="SuperTuesday" target="MakeAmericaGreatAgain" weight="7.0"></edge>
+      <edge id="47" source="SuperTuesday" target="VoteTrump" weight="5.0"></edge>
+      <edge id="48" source="SuperTuesday" target="Trump2016" weight="12.0"></edge>
+      <edge id="49" source="NHPrimary" target="FITN" weight="6.0"></edge>
+      <edge id="50" source="MakeYoutubeGreatAgain" target="Trump2016"></edge>
+      <edge id="51" source="NYPrimary" target="VoteTrump"></edge>
+      <edge id="52" source="NYPrimary" target="NewYorkValues"></edge>
+      <edge id="53" source="NYPrimary" target="GOP"></edge>
+      <edge id="54" source="NYPrimary" target="Trump2016" weight="3.0"></edge>
+      <edge id="55" source="NYPrimary" target="TrumpTrain"></edge>
+      <edge id="56" source="VoteTrumpNY" target="ICYMI"></edge>
+      <edge id="57" source="VoteTrumpNY" target="POTUS"></edge>
+      <edge id="58" source="VoteTrumpNY" target="MakeAmericaGreatAgain"></edge>
+      <edge id="59" source="VoteTrumpNY" target="PrimaryDay"></edge>
+      <edge id="60" source="VoteTrumpNY" target="Trump2016" weight="2.0"></edge>
+      <edge id="61" source="NaturalBorn" target="CommonLaw"></edge>
+      <edge id="62" source="NaturalBorn" target="MaryBrigidMcManamon"></edge>
+      <edge id="63" source="NaturalBorn" target="TedCruz"></edge>
+      <edge id="64" source="LESM" target="MAGA" weight="2.0"></edge>
+      <edge id="65" source="LESM" target="MakeAmericaGreatAgain"></edge>
+      <edge id="66" source="LESM" target="Trump2016"></edge>
+      <edge id="67" source="NewDay" target="MakeAmericaGreatAgain"></edge>
+      <edge id="68" source="Enough" target="OrlandoUnited"></edge>
+      <edge id="69" source="Enough" target="Filibuster"></edge>
+      <edge id="70" source="VoteTrumpWI" target="WIPrimary"></edge>
+      <edge id="71" source="FoxNews" target="MakeAmericaGreatAgain"></edge>
+      <edge id="72" source="FoxNews" target="MichaelMoore"></edge>
+      <edge id="73" source="FoxNews" target="ROGERAILES"></edge>
+      <edge id="74" source="FoxNews" target="Trump2016" weight="2.0"></edge>
+      <edge id="75" source="IowaCaucus" target="VoteTrump"></edge>
+      <edge id="76" source="EndCommonCore" target="Trump2016"></edge>
+      <edge id="77" source="CommonLaw" target="MaryBrigidMcManamon"></edge>
+      <edge id="78" source="CommonLaw" target="TedCruz"></edge>
+      <edge id="79" source="AmericaFirst" target="Debates2016"></edge>
+      <edge id="80" source="AmericaFirst" target="RNCinCLE" weight="4.0"></edge>
+      <edge id="81" source="AmericaFirst" target="GOPinCLE"></edge>
+      <edge id="82" source="AmericaFirst" target="Trump2016" weight="12.0"></edge>
+      <edge id="83" source="AmericaFirst" target="MakeAmericaGreatAgain" weight="2.0"></edge>
+      <edge id="84" source="AmericaFirst" target="DebateNight" weight="2.0"></edge>
+      <edge id="85" source="AmericaFirst" target="TrumpTrain" weight="2.0"></edge>
+      <edge id="86" source="AmericaFirst" target="ImWithYou" weight="12.0"></edge>
+      <edge id="87" source="AmericaFirst" target="LaborDay"></edge>
+      <edge id="88" source="AmericaFirst" target="MAGA" weight="5.0"></edge>
+      <edge id="89" source="AmericaFirst" target="GOPConvention" weight="2.0"></edge>
+      <edge id="90" source="AmericaFirst" target="TrumpPence16"></edge>
+      <edge id="91" source="TrumpPence16" target="JimmyFallon"></edge>
+      <edge id="92" source="TrumpPence16" target="DebateNight"></edge>
+      <edge id="93" source="TrumpPence16" target="TheTonightShow"></edge>
+      <edge id="94" source="TrumpPence16" target="TheDonald"></edge>
+      <edge id="95" source="TrumpPence16" target="MAGA" weight="5.0"></edge>
+      <edge id="96" source="CTPrimary" target="PAPrimary"></edge>
+      <edge id="97" source="CTPrimary" target="DEPrimary"></edge>
+      <edge id="98" source="CTPrimary" target="RIPrimary"></edge>
+      <edge id="99" source="CTPrimary" target="MDPrimary"></edge>
+      <edge id="100" source="OrlandoUnited" target="Filibuster"></edge>
+      <edge id="101" source="imwithher" target="ADA"></edge>
+      <edge id="102" source="imwithher" target="CripTheVote"></edge>
+      <edge id="103" source="RIP" target="DivoDeJuarez"></edge>
+      <edge id="104" source="RIP" target="JuanGabriel"></edge>
+      <edge id="105" source="BlackMenForBernie" target="BlacksForTrump"></edge>
+      <edge id="106" source="BlackMenForBernie" target="Hillary2016"></edge>
+      <edge id="107" source="DavidCameron" target="WH"></edge>
+      <edge id="108" source="UT" target="AZ"></edge>
+      <edge id="109" source="SuperSaturday" target="Trump2016" weight="2.0"></edge>
+      <edge id="110" source="UTCaucus" target="MakeAmericaGreatAgain"></edge>
+      <edge id="111" source="UTCaucus" target="AmericanSamoa"></edge>
+      <edge id="112" source="UTCaucus" target="Trump2016"></edge>
+      <edge id="113" source="UTCaucus" target="ArizonaPrimary"></edge>
+      <edge id="114" source="UTCaucus" target="VoteTrump"></edge>
+      <edge id="115" source="UTCaucus" target="UtahCaucus" weight="2.0"></edge>
+      <edge id="116" source="TedCruz" target="LaurenceTribe"></edge>
+      <edge id="117" source="TedCruz" target="MaryBrigidMcManamon"></edge>
+      <edge id="118" source="DebateNight" target="ImWithYou"></edge>
+      <edge id="119" source="DebateNight" target="MAGA"></edge>
+      <edge id="120" source="DebateNight" target="ISIS"></edge>
+      <edge id="121" source="EauClaire" target="Racine"></edge>
+      <edge id="122" source="EauClaire" target="Trump2016"></edge>
+      <edge id="123" source="EauClaire" target="WIPrimary"></edge>
+      <edge id="124" source="EauClaire" target="Wausau"></edge>
+      <edge id="125" source="EauClaire" target="TrumpTrain"></edge>
+      <edge id="126" source="campaignfinance" target="CitizensUnited"></edge>
+      <edge id="127" source="TPP" target="Debates2016"></edge>
+      <edge id="128" source="enough" target="ImWithHer"></edge>
+      <edge id="129" source="USA" target="MakeAmericaGreatAgain"></edge>
+      <edge id="130" source="gunviolence" target="NoMoreSilence"></edge>
+      <edge id="131" source="gunviolence" target="sitin"></edge>
+      <edge id="132" source="gunviolence" target="NoBillNoBreak"></edge>
+      <edge id="133" source="CripTheVote" target="ADA"></edge>
+      <edge id="134" source="ECONOMY" target="MakeAmericaGreatAgain"></edge>
+      <edge id="135" source="ECONOMY" target="Trump2016"></edge>
+      <edge id="136" source="TrumpMovement" target="MAGA"></edge>
+      <edge id="137" source="NATO" target="DemsInPhilly"></edge>
+      <edge id="138" source="NATO" target="StandTogether"></edge>
+      <edge id="139" source="GOP" target="jenniferrubin"></edge>
+      <edge id="140" source="GOP" target="MattSchlapp"></edge>
+      <edge id="141" source="ClintonKaine" target="ImWithHer"></edge>
+      <edge id="142" source="sitin" target="NoBillNoBreak"></edge>
+      <edge id="143" source="sitin" target="EndGunViolence"></edge>
+      <edge id="144" source="sitin" target="DisarmHate"></edge>
+      <edge id="145" source="sitin" target="NoMoreSilence"></edge>
+      <edge id="146" source="TrumpWon" target="MAGA"></edge>
+      <edge id="147" source="TrumpWon" target="1"></edge>
+      <edge id="148" source="ChangeAgents" target="MichaelBrown"></edge>
+      <edge id="149" source="ChangeAgents" target="MothersoftheMovement"></edge>
+      <edge id="150" source="HillaryClinton" target="Prince"></edge>
+      <edge id="151" source="PrimaryDay" target="iVoted"></edge>
+      <edge id="152" source="PrimaryDay" target="POTUS"></edge>
+      <edge id="153" source="PrimaryDay" target="Trump2016"></edge>
+      <edge id="154" source="GOPinCLE" target="GOPConvention"></edge>
+      <edge id="155" source="MattSchlapp" target="jenniferrubin"></edge>
+      <edge id="156" source="Carrier" target="Jobs"></edge>
+      <edge id="157" source="Carrier" target="Trump"></edge>
+      <edge id="158" source="Carrier" target="Ford"></edge>
+      <edge id="159" source="NHPolitics" target="FITN" weight="2.0"></edge>
+      <edge id="160" source="NHPolitics" target="Trump2016" weight="2.0"></edge>
+      <edge id="161" source="holdthefloor" target="NoMoreSilence"></edge>
+      <edge id="162" source="holdthefloor" target="NoBillNoBreak"></edge>
+      <edge id="163" source="WattersWorld" target="Trump2016"></edge>
+      <edge id="164" source="Rio2016" target="OpeningCeremony"></edge>
+      <edge id="165" source="SCPrimary" target="MakeAmericaGreatAgain" weight="3.0"></edge>
+      <edge id="166" source="SCPrimary" target="Trump2016" weight="3.0"></edge>
+      <edge id="167" source="MichaelMoore" target="ROGERAILES"></edge>
+      <edge id="168" source="primary" target="presidenttrump"></edge>
+      <edge id="169" source="primary" target="Trump2016"></edge>
+      <edge id="170" source="AlwaysTrump" target="MAGA"></edge>
+      <edge id="171" source="AlwaysTrump" target="Trump2016"></edge>
+      <edge id="172" source="AlwaysTrump" target="TrumpTrain"></edge>
+      <edge id="173" source="DefendtheSecond" target="NeverHillary"></edge>
+      <edge id="174" source="DefendtheSecond" target="ElectionDay"></edge>
+      <edge id="175" source="Srebrenica" target="NeverForget"></edge>
+      <edge id="176" source="smallbiz" target="taxplan"></edge>
+      <edge id="177" source="INPrimary" target="MakeAmericaGreatAgain"></edge>
+      <edge id="178" source="INPrimary" target="VoteTrump" weight="6.0"></edge>
+      <edge id="179" source="INPrimary" target="Trump2016" weight="3.0"></edge>
+      <edge id="180" source="Benghazi" target="Debates2016"></edge>
+      <edge id="181" source="Benghazi" target="debatenight"></edge>
+      <edge id="182" source="Ford" target="Jobs"></edge>
+      <edge id="183" source="Ford" target="Trump"></edge>
+      <edge id="184" source="WashingtonDC" target="Statehood"></edge>
+      <edge id="185" source="EndGunViolence" target="DisarmHate"></edge>
+      <edge id="186" source="Teachers4Trump" target="CA4Trump"></edge>
+      <edge id="187" source="JuanGabriel" target="DivoDeJuarez"></edge>
+      <edge id="188" source="BuildTheWall" target="Hannity"></edge>
+      <edge id="189" source="MaryBrigidMcManamon" target="Cruz"></edge>
+      <edge id="190" source="ICYMI" target="trump2016"></edge>
+      <edge id="191" source="ICYMI" target="Trump2016"></edge>
+      <edge id="192" source="With_Cruz_you_lose" target="MakeAmericaGreatAgain"></edge>
+      <edge id="193" source="With_Cruz_you_lose" target="trump2016"></edge>
+      <edge id="194" source="TeamTrump" target="MaitnerStrong"></edge>
+      <edge id="195" source="LGBT" target="Pulse"></edge>
+      <edge id="196" source="KansasCaucus" target="MakeAmericaGreatAgain"></edge>
+      <edge id="197" source="KansasCaucus" target="Trump2016"></edge>
+      <edge id="198" source="GIBill" target="veterans"></edge>
+      <edge id="199" source="IACaucus" target="GOPDebate"></edge>
+      <edge id="200" source="IACaucus" target="MakeAmericaGreatAgain" weight="6.0"></edge>
+      <edge id="201" source="IACaucus" target="FITN" weight="4.0"></edge>
+      <edge id="202" source="IACaucus" target="IAPolitics"></edge>
+      <edge id="203" source="IACaucus" target="Trump2016" weight="8.0"></edge>
+      <edge id="204" source="IACaucus" target="CaucusForTrump" weight="3.0"></edge>
+      <edge id="205" source="IACaucus" target="VoteTrump" weight="2.0"></edge>
+      <edge id="206" source="DemsinPhilly" target="StrongerTogether"></edge>
+      <edge id="207" source="DemsinPhilly" target="DNCinPHL"></edge>
+      <edge id="208" source="RTM2016" target="Trump2016"></edge>
+      <edge id="209" source="LoneStarState" target="MakeAmericaGreatAgain"></edge>
+      <edge id="210" source="TBT" target="MAGA"></edge>
+      <edge id="211" source="TBT" target="HillaryOnGMA"></edge>
+      <edge id="212" source="BlacksForTrump" target="Hillary2016"></edge>
+      <edge id="213" source="ObamaCare" target="MAKEAMERICAGREATAGAIN"></edge>
+      <edge id="214" source="Jobs" target="Trump"></edge>
+      <edge id="215" source="Colbert" target="LSSC"></edge>
+      <edge id="216" source="NASCAR" target="VoteTrump"></edge>
+      <edge id="217" source="NASCAR" target="Trump2016"></edge>
+      <edge id="218" source="LyingTed" target="NeverCruz"></edge>
+      <edge id="219" source="WeWantTrump" target="WeAreBernie"></edge>
+      <edge id="220" source="WeWantTrump" target="makeamericagreatagain"></edge>
+      <edge id="221" source="WeWantTrump" target="trump"></edge>
+      <edge id="222" source="FITN" target="MakeAmericaGreatAgain" weight="3.0"></edge>
+      <edge id="223" source="FITN" target="IAPolitics"></edge>
+      <edge id="224" source="FITN" target="Trump2016" weight="9.0"></edge>
+      <edge id="225" source="FITN" target="NewHampshire"></edge>
+      <edge id="226" source="FITN" target="VoteTrump" weight="2.0"></edge>
+      <edge id="227" source="VoterRegistrationDay" target="MakeAmericaGreatAgain"></edge>
+      <edge id="228" source="UtahCaucus" target="VoteTrump"></edge>
+      <edge id="229" source="UtahCaucus" target="AmericanSamoa"></edge>
+      <edge id="230" source="UtahCaucus" target="Trump2016"></edge>
+      <edge id="231" source="UtahCaucus" target="ArizonaPrimary"></edge>
+      <edge id="232" source="UtahCaucus" target="MakeAmericaGreatAgain"></edge>
+      <edge id="233" source="TrumpPence2016" target="NeverHillary"></edge>
+      <edge id="234" source="TrumpPence2016" target="RNCinCLE"></edge>
+      <edge id="235" source="WCS16" target="ImWithYou"></edge>
+      <edge id="236" source="Utah4Trump" target="UtahPrimary"></edge>
+      <edge id="237" source="Utah4Trump" target="TrumpCountry"></edge>
+      <edge id="238" source="Utah4Trump" target="Utah"></edge>
+      <edge id="239" source="Utah4Trump" target="Mormon"></edge>
+      <edge id="240" source="Mormon" target="UtahPrimary"></edge>
+      <edge id="241" source="Mormon" target="TrumpCountry"></edge>
+      <edge id="242" source="Mormon" target="Utah"></edge>
+      <edge id="243" source="Clinton" target="Trump"></edge>
+      <edge id="244" source="MichaelBrown" target="MothersoftheMovement"></edge>
+      <edge id="245" source="DEPrimary" target="PAPrimary"></edge>
+      <edge id="246" source="DEPrimary" target="MDPrimary"></edge>
+      <edge id="247" source="DEPrimary" target="RIPrimary"></edge>
+      <edge id="248" source="WIPrimary" target="MakeAmericaGreatAgain"></edge>
+      <edge id="249" source="WIPrimary" target="Racine"></edge>
+      <edge id="250" source="WIPrimary" target="TrumpTrain"></edge>
+      <edge id="251" source="WIPrimary" target="MAGA"></edge>
+      <edge id="252" source="WIPrimary" target="Trump2016" weight="10.0"></edge>
+      <edge id="253" source="WIPrimary" target="VoteTrump"></edge>
+      <edge id="254" source="WIPrimary" target="Wausau"></edge>
+      <edge id="255" source="Elkhart" target="POTUS"></edge>
+      <edge id="256" source="Elkhart" target="MakeAmericaGreatAgain"></edge>
+      <edge id="257" source="TheDonald" target="JimmyFallon"></edge>
+      <edge id="258" source="TheDonald" target="TheTonightShow"></edge>
+      <edge id="259" source="Debates2016" target="debatenight"></edge>
+      <edge id="260" source="Debates2016" target="slipping"></edge>
+      <edge id="261" source="Debates2016" target="Polls"></edge>
+      <edge id="262" source="Debates2016" target="NationalVoterRegistrationDay"></edge>
+      <edge id="263" source="Debates2016" target="MAGA" weight="3.0"></edge>
+      <edge id="264" source="TheTonightShow" target="JimmyFallon"></edge>
+      <edge id="265" source="MeetTheTrumps" target="Trump2016"></edge>
+      <edge id="266" source="RIPrimary" target="PAPrimary"></edge>
+      <edge id="267" source="RIPrimary" target="VoteTrump"></edge>
+      <edge id="268" source="RIPrimary" target="MDPrimary"></edge>
+      <edge id="269" source="NeverHillary" target="MAGA"></edge>
+      <edge id="270" source="NeverHillary" target="SCOTUS"></edge>
+      <edge id="271" source="NeverHillary" target="ElectionDay"></edge>
+      <edge id="272" source="SB50" target="GOPDebate"></edge>
+      <edge id="273" source="SB50" target="SuperBowlSunday"></edge>
+      <edge id="274" source="DemConvention" target="DemsInPhilly"></edge>
+      <edge id="275" source="DemConvention" target="ImWithHer"></edge>
+      <edge id="276" source="TRUMP2016" target="MAGA"></edge>
+      <edge id="277" source="ImWithYou" target="MakeAmericaGreatAgain" weight="6.0"></edge>
+      <edge id="278" source="ImWithYou" target="VoteTrump"></edge>
+      <edge id="279" source="ImWithYou" target="LawandOrder" weight="2.0"></edge>
+      <edge id="280" source="ImWithYou" target="TrumpTrain"></edge>
+      <edge id="281" source="ImWithYou" target="MAGA" weight="5.0"></edge>
+      <edge id="282" source="ImWithYou" target="Trump2016" weight="2.0"></edge>
+      <edge id="283" source="RNCinCLE" target="MakeAmericaGreatAgain"></edge>
+      <edge id="284" source="RNCinCLE" target="TrumpIsWithYou"></edge>
+      <edge id="285" source="RNCinCLE" target="GOPConvention" weight="2.0"></edge>
+      <edge id="286" source="StopCommonCore" target="MakeAmericaGreatAgain"></edge>
+      <edge id="287" source="TrumpCountry" target="UtahPrimary"></edge>
+      <edge id="288" source="TrumpCountry" target="Utah"></edge>
+      <edge id="289" source="NewYorkValues" target="NewYork"></edge>
+      <edge id="290" source="NewYorkValues" target="VoteTrump"></edge>
+      <edge id="291" source="NewYorkValues" target="Jonas"></edge>
+      <edge id="292" source="NewYorkValues" target="Trump2016"></edge>
+      <edge id="293" source="Jonas" target="NewYork"></edge>
+      <edge id="294" source="UtahPrimary" target="Utah"></edge>
+      <edge id="295" source="ORPrimary" target="VoteTrump"></edge>
+      <edge id="296" source="AmericanSamoa" target="VoteTrump"></edge>
+      <edge id="297" source="AmericanSamoa" target="ArizonaPrimary"></edge>
+      <edge id="298" source="Fox" target="KenLangone"></edge>
+      <edge id="299" source="Orlando" target="StoptheHate"></edge>
+      <edge id="300" source="CAPrimary" target="MakeAmericaGreatAgain"></edge>
+      <edge id="301" source="TrumpIsWithYou" target="MakeAmericaGreatAgain"></edge>
+      <edge id="302" source="FeelTheBern" target="ImWithHer"></edge>
+      <edge id="303" source="CBNNews" target="2016"></edge>
+      <edge id="304" source="RNC" target="Trump2016"></edge>
+      <edge id="305" source="trump2016" target="MakeAmericaGreatAgain" weight="2.0"></edge>
+      <edge id="306" source="MAKEAMERICAGREATAGAIN" target="Hannity"></edge>
+      <edge id="307" source="presidenttrump" target="Trump2016"></edge>
+      <edge id="308" source="NoMoreSilence" target="NoBillNoBreak" weight="2.0"></edge>
+      <edge id="309" source="VotersSpeak" target="MakeAmericaGreatAgain"></edge>
+      <edge id="310" source="brexit" target="MAGA"></edge>
+      <edge id="311" source="Hannity" target="Trump2016"></edge>
+      <edge id="312" source="NebraskaPrimary" target="TrumpForPresident"></edge>
+      <edge id="313" source="NebraskaPrimary" target="Trump2016"></edge>
+      <edge id="314" source="TrumpTrain" target="Wisconsin"></edge>
+      <edge id="315" source="TrumpTrain" target="Trump2016" weight="10.0"></edge>
+      <edge id="316" source="TrumpTrain" target="Wausau"></edge>
+      <edge id="317" source="TrumpTrain" target="GOPDebate"></edge>
+      <edge id="318" source="TrumpTrain" target="MakeAmericaGreatAgain" weight="8.0"></edge>
+      <edge id="319" source="TrumpTrain" target="Racine"></edge>
+      <edge id="320" source="TrumpTrain" target="VoteTrump2016"></edge>
+      <edge id="321" source="TrumpTrain" target="WesternTuesday"></edge>
+      <edge id="322" source="TrumpTrain" target="MAGA" weight="3.0"></edge>
+      <edge id="323" source="goodtrouble" target="NoBillNoBreak"></edge>
+      <edge id="324" source="DemsInPhilly" target="LoveTrumpsHate"></edge>
+      <edge id="325" source="DemsInPhilly" target="ImWithHer"></edge>
+      <edge id="326" source="SuperBowlSunday" target="GOPDebate"></edge>
+      <edge id="327" source="GOPDebate" target="MakeAmericaGreatAgain" weight="2.0"></edge>
+      <edge id="328" source="makeamericagreatagain" target="WeAreBernie"></edge>
+      <edge id="329" source="makeamericagreatagain" target="trump"></edge>
+      <edge id="330" source="IAPolitics" target="VoteTrump"></edge>
+      <edge id="331" source="IAPolitics" target="Trump2016"></edge>
+      <edge id="332" source="VoterFraud" target="MSM"></edge>
+      <edge id="333" source="Rubio" target="Bush"></edge>
+      <edge id="334" source="TrumpForPresident" target="Trump2016"></edge>
+      <edge id="335" source="trump" target="WeAreBernie"></edge>
+      <edge id="336" source="PAPrimary" target="VoteTrump"></edge>
+      <edge id="337" source="PAPrimary" target="MDPrimary"></edge>
+      <edge id="338" source="POTUS" target="MakeAmericaGreatAgain"></edge>
+      <edge id="339" source="POTUS" target="Trump2016" weight="2.0"></edge>
+      <edge id="340" source="Wisconsin" target="MakeAmericaGreatAgain"></edge>
+      <edge id="341" source="Women4Ttump" target="Trump2016"></edge>
+      <edge id="342" source="Trump2016" target="VoteTrump" weight="14.0"></edge>
+      <edge id="343" source="Trump2016" target="Wausau"></edge>
+      <edge id="344" source="Trump2016" target="MakeAmericaGreatAgain" weight="103.0"></edge>
+      <edge id="345" source="Trump2016" target="MAGA" weight="4.0"></edge>
+      <edge id="346" source="Trump2016" target="Racine"></edge>
+      <edge id="347" source="Trump2016" target="WesternTuesday"></edge>
+      <edge id="348" source="Trump2016" target="ArizonaPrimary"></edge>
+      <edge id="349" source="slipping" target="Polls"></edge>
+      <edge id="350" source="Wausau" target="Racine"></edge>
+      <edge id="351" source="VoteTrump" target="MakeAmericaGreatAgain" weight="18.0"></edge>
+      <edge id="352" source="VoteTrump" target="ArizonaPrimary"></edge>
+      <edge id="353" source="MakeAmericaGreatAgain" target="ArizonaPrimary"></edge>
+    </edges>
+  </graph>
+</gexf>

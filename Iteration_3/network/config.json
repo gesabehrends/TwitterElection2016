@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Anna und Gesa"
+  },
+  "text": {
+    "more": "\u003cp\u003e Analyse der gemeinsam genutzten Hashtags in Tweets der amerikanischen Präsidentschaftskandidaten zwischen Januar und Septermebr 2016 \u003c/p\u003e\n\u003cp\u003e Entstanden als Projekt in der Datenbanksysteme-Veranstaltung im SoSe 2017 an der FU Berlin \u003c/p\u003e",
+    "intro": "Hashtags, die von D. Trump und H. Clinton verwendet wurden (05.01.2016 - 28.09.2016).\n ",
+    "title": "Hashtagsverbindungen"
+  },
+  "legend": {
+    "edgeLabel": "Verwendung im gleichen Tweet",
+    "colorLabel": "gleiche Community",
+    "nodeLabel": "Hashtags"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": "Label"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
