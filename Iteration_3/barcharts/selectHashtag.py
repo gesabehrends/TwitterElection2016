@@ -45,4 +45,6 @@ for scannedDate in uniqueDates:
     countDates.append(i)
 
 datesCumulated = pandas.DataFrame({'date': uniqueDates, 'count' : countDates})
-datesCumulated.to_csv(fileName, sep=';', index=False)
+datesCumulated.sort_values(by='date', inplace=True)
+
+datesCumulated.to_csv(fileName, sep=',', index=False)
