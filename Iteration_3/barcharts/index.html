@@ -10,26 +10,25 @@
     <body>
       <div id="myDiv" style="width: 700px; height: 500px;"></div>
       <script>
+      
+      function plotMAGA(){
+      
         Plotly.d3.csv('MAGA.csv', function(rows){
             var trace = {
-              type: 'scatter',                    // set the chart type
-              mode: 'lines',                      // connect points with lines
+              type: 'bar',                      // connect points with lines
               x: rows.map(function(row){          // set the x-data
                 return row['date'];
               }),
               y: rows.map(function(row){          // set the x-data
                 return row['count'];
               }),
-              line: {                             // set the width of the line.
-                width: 1
-              },
             };
 
             var layout = {
               yaxis: {title: "Anzahl"},       // set the y axis title
               xaxis: {
                 showgrid: false,                  // remove the x-axis grid lines
-                tickformat: "%B, %Y"              // customize the date format to "month, day"
+                tickformat: "%d %b %Y"              // customize the date format to "month, day"
               },
               margin: {                           // update the left, bottom, right, top margin
                 l: 40, b: 100, r: 10, t: 20
@@ -38,7 +37,40 @@
 
             Plotly.plot(document.getElementById('myDiv'), [trace], layout, {showLink: false});
         });
+        }
       </script>
+            <script>
+      
+      function plotCaucusForTrump(){
+      
+        Plotly.d3.csv('CaucusForTrump.csv', function(rows){
+            var trace = {
+              type: 'bar',                    // set the chart type
+              x: rows.map(function(row){          // set the x-data
+                return row['date'];
+              }),
+              y: rows.map(function(row){          // set the x-data
+                return row['count'];
+              }),
+            };
+
+            var layout = {
+              yaxis: {title: "Anzahl"},       // set the y axis title
+              xaxis: {
+                showgrid: false,                  // remove the x-axis grid lines
+                tickformat: "%d %b %Y"              // customize the date format to "month, day"
+              },
+              margin: {                           // update the left, bottom, right, top margin
+                l: 40, b: 100, r: 10, t: 20
+              }
+            };
+
+            Plotly.plot(document.getElementById('myDiv'), [trace], layout, {showLink: false});
+        });
+        }
+      </script>
+      <button onclick="plotMAGA();">MAGA</button>
+      <button onclick="plotCaucusForTrump();">CaucusForTrump</button>
     </body>
 
 
