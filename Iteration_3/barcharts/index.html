@@ -53,11 +53,13 @@
     var hshtg = document.getElementById('hashtag').value; //Eingabe in Variable packen
 
     if(findHashtag(hshtg)){    // if hashtag exists, plot hshtg.csv
+      document.getElementById('log').innerHTML = "";  //empty log
       var pfad = "data/" + hshtg + ".csv";  //generate string
       plotBars(pfad);
     }
     else{
-      document.write("no such hashtag in database");
+      //document.write("no such hashtag in database");
+      document.getElementById('log').innerHTML += 'No such #hashtag in database!';
     }
   }
 
@@ -70,5 +72,5 @@
   <button type="button" onclick="alertInputValue()">Los!</button>
 </form>
 <div id="myDiv" style="width: 1200px; height: 600px;"><!-- Plotly chart will be drawn inside this DIV --></div>
-
+<div id="log" style="width: 1200px; height: 30px;"><!-- log-messages --></div>
 </body></html>
