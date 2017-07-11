@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script src="../network/js/jquery/jquery.min.js" type="text/javascript"></script>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<link rel="stylesheet" href="base.css">
+
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+<script type="text/javascript">
+  var listOfHashtags = ["1", "2016", "2A", "60Minutes", "ADA", "AIDSFreeGeneration", "AIPAC2016", "ALConvention2016", "APAHM", "AZ", "AZPrimary", "ActOnClimate", "AlwaysTrump", "AmericaFIRST", "AmericaGreatAgain", "AmericanSamoa", "Arizona", "ArizonaPrimary", "ArmedForcesDay", "ArmyBDay", "AsLongAsItTakes", "Benghazi", "BikersForTrump", "BlackMenForBernie", "BlackWomensEqualPay", "BlacksForTrump", "Brexit", "BrexitVote", "Brussels", "BuildTheWall", "Bush", "CA4Trump", "CAPrimary", "CBNNews", "CNN", "CTPrimary", "Caribbean", "Carrier", "CaucusForTrump", "ChangeAgents", "Charleston9", "CincoDeMayo", "CitizensUnited", "Clinton", "ClintonKaine", "CoastGuardDay", "Colbert", "CommanderInChiefForum", "CommonCore", "CommonLaw", "CreatorsAskHRC", "CripTheVote", "CrookedHillary", "Cruz", "CruzFraud", "DACA", "DDay", "DEPrimary", "DNC", "DNCinPHL",
+ "DavidCameron", "DebateNight", "Debates2016", "Decision2016", "DeclareYourAmbition", "DefendtheSecond", "DemConvention", "DemPlatform", "DemocraticSitIn", "DemsInPHL", "DemsInPhilly", "Derp", "DisarmHate", "DivoDeJuarez", "Diwali", "Donald", "DonaldTrump", "ECONOMY", "EarthDay", "EastVillage", "EauClaire", "ElectionDay", "Elkhart", "EndCommonCore", "EndGunViolence", "Enjoy", "EstoyConElla", "Excellent", "FAIL", "FITN", "FNS", "FallonTonight", "FeelTheBern", "FightForFamilies", "Filibuster",
+ "FirstInPOTUS", "FlashbackFriday", "Ford", "Fox", "FoxNews", "Frozen", "GIBill", "GO", "GOP", "GOPConvention", "GOPDebate", "GOPinCLE", "GPLFers", "GoldenGlobe", "Greta", "HRC4PA", "HaileyPuckett", "Hannity", "HarveyPitt", "Hillary2016", "HillaryClinton", "HillaryKaine2016", "HillaryOnCNN", "HillaryOnGMA", "HispanicHeritageMonth", "HistoryMade", "HoustonFlood", "IACaucus", "IAPolitics", "ICYMI", "INDPrimary", "INPrimary", "ISIS", "ImWithHernandez", "ImWithYou", "Indiana", "InternationalNursesDay", "Iowa", "IowaCaucus", "IranDeal", "JimmyFallon", "Jobs", "JohnRyder", "Jonas", "JuanGabriel", "JuntosSePuede", "KansasCaucus", "KenLangone", "KentuckyDerby", "KhizrKhan", "LAflood", "LESM", "LGBT",
+ "LSSC", "LaborDay", "LaudatoSi", "Laurence", "LawandOrder", "LeadRight2016", "LibrarianOfCongress", "LightweightSenatorMarcoRubio", "LittleMarco", "LoneStarState", "LoveTrumpsHate", "LyingTed", "MAGA", "MDPrimary", "MDW", "MSM", "MSNBCTownhall", "MSPrimary", "MadeForHistory", "MadeInAmerica", "Mahalo", "MaitnerStrong", "MakeAmericaSafeAgain", "MakeYoutubeGreatAgain", "MaryBrigidMcManamon", "MattSchlapp", "MayDay", "Mediafraud", "MeetTheTrumps", "MegynKellyPresents", "MemorialDay", "Mexico", "MichaelBrown", "MichaelMoore", "MikePence", "MoreInCommon", "Mormon", "MorningJoe", "MothersDay", "MothersoftheMovement", "MyTeacherIsWeird", "NAACP107", "NABJNAHJ16",
+ "NASCAR", "NATO", "NBCNewsForum", "NHPolitics", "NHPrimary", "NPS100", "NVcaucus", "NYCPride", "NYPrimary", "NationalVoterRegistrationDay", "NaturalBorn", "NebraskaPrimary", "NeilCavuto", "NetNeutrality", "NevadaCaucus", "NeverCruz", "NeverDems", "NeverForget", "NeverHillary", "NeverTrump", "NewDay", "NewHampshire", "NewYork", "NewYorkValues", "NoBillNoBreak", "NoLoyalty", "NoMoreSilence", "NotOneMore", "OHHillYes", "ORPrimary", "ObamaCare", "Olmstead", "OnTheRecord", "OpeningCeremony", "OpioidAwarenessWeek", "Orlando", "OrlandoUnited", "PAPrimary", "POTUS", "PhilandoCastile", "Politician", "PrimaryDay", "Prince", "Pulse", "PurpleHeartDay", "RIP", "RIPrimary", "RNC", "RNCInCLE",
+ "RNCwithBernie", "ROGERAILES", "RTM2016", "Racine", "RepMikeKelly", "RestoreTheVRA", "RiggedSystem", "Rio2016", "RobotRubio", "RogerStone", "RollCallVote", "RosanellEaton", "Rubio", "SB50", "SCOTUS", "SCPrimary", "SOTU", "SallyRideDay", "SaveElephants", "SayHerName", "SecondAmendment", "SheWon", "ShesWithUs", "SmallBizWeek", "SouthCarolina", "SouthCarolinaPrimary", "Srebrenica", "StandTogether", "StandWithLouisiana", "StanleyCup", "Statehood", "StopCommonCore", "StopGunViolence", "StoptheHate", "StrongerTogether", "SuperBowlSunday", "SuperSaturday", "SuperTuesday", "TBT", "TPP", "TRUMP2016", "TRUMPDOG", "TeacherAppreciationDay", "Teachers4Trump", "TeamTrump", "TeamUSA", "Ted", "TedCruz",
+ "TerenceCrutcher", "ThankAVet", "ThanksObama", "TheDonald", "TheTonightShow", "TitleIX", "Trump360", "Trump4President", "Trump4Vets", "TrumpCountry", "TrumpDallas", "TrumpForPresident", "TrumpIsWithYou", "TrumpLV", "TrumpMovement", "TrumpNV", "TrumpPence16", "TrumpPence2016", "TrumpSupporters", "TrumpTrain", "TrumpWaikiki", "TrumpWon", "TrumpYourself", "TrumpinEverett", "Turkey", "TurnUpToVote", "UAW", "UNGA", "UPUPUP", "USA", "USMC2016", "UT", "UTCaucus", "UnderstandSlavery", "Utah", "Utah4Trump", "UtahCaucus", "UtahPrimary", "VirWINia", "VoteTrump2016", "VoteTrumpIL", "VoteTrumpMA", "VoteTrumpMI", "VoteTrumpNC", "VoteTrumpNH", "VoteTrumpNV", "VoteTrumpNY",
+ "VoteTrumpSC", "VoteTrumpVT", "VoteTrumpWI", "VoterFraud", "VoterRegistrationDay", "VotersSpeak", "WATCH", "WCS16", "WH", "WHCD", "WHD", "WIBackHer", "WIPrimary", "WISCONSIN", "WOMEN4TRUMP", "WORK", "WakeUpAmerica", "WashingtonDC", "WattersWorld", "Wausau", "WeAreBernie", "WeMadeHistory", "WeTrumpHate", "WeWantTrump", "WestVirginia", "WesternTuesday", "WheresHillary", "Wimbledon", "With_Cruz_you_lose", "Women4Ttump", "WomensEqualityDay", "WorldRefugeeDay", "YUGE", "YouthDay", "campaignfinance", "debate", "dtmag", "election2016", "enough", "extremevetting", "fairandbalancedmyass", "fixdemocracyfirst", "goodtrouble", "gunviolence", "holdthefloor", "iRegistered", "iVoted",
+ "imwithher", "jenniferrubin", "laurencetribe", "makeamericagreatagain", "makersandtakers", "media", "polls", "presidenttrump", "primary", "sendDonaldtospace", "sitin", "slipping", "smallbiz", "taxplan", "trump", "ugpride2016", "vaticanwalls", "veterans", "voteTrump", "womancard", "writeDataForBarcharts.py"]
+
+  var firstPlot = false;                           // flag: already plotted?
+  function findHashtag(hashtag){                   // does hashtag exist? nice way: typeahead, TODO
+    return (listOfHashtags.indexOf(hashtag) >= 0); // >=0 wenn hashtag in ListOfHashtags
+  }
+  function plotBars(file){     
+    Plotly.d3.csv(file, function(rows){
+        var trace = {
+          type: 'bar',                             // set the chart type
+          x: rows.map(function(row){               // set the x-data
+            return row['date'];
+          }),
+          y: rows.map(function(row){               // set the x-data
+            return row['count'];
+          }),
+        };
+
+        var layout = {
+          yaxis: {title: "Anzahl"},               // set the y axis title
+          xaxis: {
+            showgrid: false,                      // remove the x-axis grid lines
+            tickformat: "%d %b %Y"                // customize the date format to "month, day"
+          },
+          margin: {                               // update the left, bottom, right, top margin
+            l: 40, b: 100, r: 10, t: 20
+          }
+        };
+        if(firstPlot){                    // can only delete what's there TODO: would be nice to show more than one, buttons for deleteTrace
+          Plotly.deleteTraces(document.getElementById('myDiv'), 0); 
+        }
+        Plotly.plot(document.getElementById('myDiv'), [trace], layout, {showLink: false});
+        firstPlot = true;
+    });
+  }
+  function alertInputValue(){
+
+    var hshtg = document.getElementById('hashtag').value; //Eingabe in Variable packen
+
+    if(findHashtag(hshtg)){    // if hashtag exists, plot hshtg.csv
+      document.getElementById('log').innerHTML = "";  //empty log
+      var pfad = "data/" + hshtg + ".csv";  //generate string
+      plotBars(pfad);
+    }
+    else{
+      //document.write("no such hashtag in database");
+      document.getElementById('log').innerHTML += 'No such #hashtag in database!';
+    }
+  }
+
+</script>
+
+  <!-- autocomplete for available tags -->
+  <script>
+  $( function() {
+    $( "#hashtag" ).autocomplete({
+      source: listOfHashtags,
+    });
+  } );
+  </script>
+
+</head>
+
+<body>
+<div >
+  <form style="position:relative; top:50%; left:10%;"> 
+    <label class="ui-widget" for="hashtag" align="center"> Hashtag: <input id="hashtag" name="hashtag"> </label>
+    <button type="button" onclick="alertInputValue()" align="center">Los!</button>
+  </form>
+</div>
+<div id="myDiv" style="width: 1200px; height: 600px;"><!-- Plotly chart will be drawn inside this DIV --></div>
+<div id="log" style="width: 1200px; height: 30px;"><!-- log-messages --></div>
+</body></html>
